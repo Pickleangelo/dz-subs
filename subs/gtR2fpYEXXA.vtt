@@ -1,0 +1,3823 @@
+﻿WEBVTT
+
+00:00:03.630 --> 00:00:16.220
+All right, okay, we're gonna see if this works now.
+
+00:00:16.700 --> 00:00:19.020
+We're gonna try to, one second,
+
+00:00:19.100 --> 00:00:20.480
+make sure all the audio works.
+
+00:00:21.040 --> 00:00:24.380
+So I switched everything over to OBS,
+
+00:00:25.300 --> 00:00:28.000
+and right now I'm running everything through OBS
+
+00:00:28.000 --> 00:00:29.400
+rather than Streamlabs.
+
+00:00:29.740 --> 00:00:32.200
+I suspect Streamlabs might actually be the issue,
+
+00:00:32.200 --> 00:00:33.260
+not YouTube.
+
+00:00:33.740 --> 00:00:36.020
+Certainly doesn't seem to be my hardware.
+
+00:00:36.780 --> 00:00:40.460
+So we've got everything switched over to OBS now.
+
+00:00:40.460 --> 00:00:41.880
+We'll see if this works any better.
+
+00:00:43.920 --> 00:00:45.100
+What a disaster.
+
+00:00:45.340 --> 00:00:47.460
+What a disaster technology it turned out to be today.
+
+00:00:47.460 --> 00:00:50.260
+All right, so it looks like the vertical stream is good.
+
+00:00:51.360 --> 00:00:53.600
+Vertical stream is not lagging right now.
+
+00:00:53.660 --> 00:00:56.420
+I'm gonna switch real quick over to the horizontal stream,
+
+00:00:56.460 --> 00:00:59.700
+make sure horizontal stream is rocking and rolling.
+
+00:01:02.600 --> 00:01:05.520
+Horizontal stream should be started.
+
+00:01:05.860 --> 00:01:06.740
+Give me a second.
+
+00:01:07.520 --> 00:01:08.700
+Yep, horizontal stream's running.
+
+00:01:09.140 --> 00:01:12.600
+Okay, both streams are running.
+
+00:01:12.900 --> 00:01:15.220
+Fantastic, that's what we needed to hear.
+
+00:01:15.580 --> 00:01:18.740
+Okay, so I'll keep track of it then from here,
+
+00:01:18.740 --> 00:01:20.080
+and we should be good to go.
+
+00:01:20.420 --> 00:01:24.600
+I'm so sorry, friends, for the technology hiccups today.
+
+00:01:24.700 --> 00:01:27.820
+I don't know why it's behaving like this.
+
+00:01:27.820 --> 00:01:28.820
+It's ridiculous.
+
+00:01:29.740 --> 00:01:33.460
+But I suspect this should fix the problem.
+
+00:01:34.200 --> 00:01:38.420
+So I think Streamlabs server is having a bad day.
+
+00:01:39.040 --> 00:01:42.640
+The reason why I use Streamlabs rather than OBS typically
+
+00:01:42.640 --> 00:01:46.180
+is because I stream to five different places at once,
+
+00:01:46.180 --> 00:01:48.500
+and every time you open up a new stream,
+
+00:01:49.360 --> 00:01:52.240
+it takes that much bandwidth from your computer
+
+00:01:52.240 --> 00:01:53.520
+and from your home network.
+
+00:01:54.260 --> 00:01:57.120
+However, if you stream to Streamlabs,
+
+00:01:57.560 --> 00:02:02.660
+what happens is it sends one stream over to Streamlabs,
+
+00:02:03.060 --> 00:02:05.800
+and then Streamlabs server will send it out
+
+00:02:05.800 --> 00:02:07.380
+to all the various destinations.
+
+00:02:07.860 --> 00:02:10.300
+So it frees up a lot of bandwidth at home,
+
+00:02:10.320 --> 00:02:11.300
+which is really nice.
+
+00:02:11.360 --> 00:02:12.800
+It's like a super convenient tool.
+
+00:02:12.800 --> 00:02:15.420
+But as we're seeing today,
+
+00:02:15.900 --> 00:02:18.020
+it might only be convenient when it works.
+
+00:02:18.940 --> 00:02:20.520
+It might not always work.
+
+00:02:21.760 --> 00:02:27.060
+I think this might be, if I'm seeing this correctly,
+
+00:02:27.180 --> 00:02:30.240
+if it really is an issue on Streamlabs side of things,
+
+00:02:30.600 --> 00:02:32.560
+this might actually be the first time
+
+00:02:32.560 --> 00:02:34.660
+I've ever had a problem with the Streamlabs server.
+
+00:02:34.780 --> 00:02:35.580
+It's really weird.
+
+00:02:36.200 --> 00:02:38.460
+They must be having some sort of a situation today.
+
+00:02:38.460 --> 00:02:43.360
+Probably one of those attacks.
+
+00:02:43.780 --> 00:02:45.140
+So that somebody sent something to the server,
+
+00:02:45.200 --> 00:02:46.460
+they opened up the wrong email,
+
+00:02:46.580 --> 00:02:47.760
+and now they got a virus.
+
+00:02:47.840 --> 00:02:48.500
+What are you gonna do?
+
+00:02:49.820 --> 00:02:50.700
+What are you gonna do?
+
+00:02:52.200 --> 00:02:54.940
+Hey, listen, our friend GenX Christian's now
+
+00:02:54.940 --> 00:02:57.080
+a member of the Kraken Crew Elite.
+
+00:02:57.340 --> 00:02:58.560
+Thank you so much, GenX Christian.
+
+00:02:58.600 --> 00:03:00.280
+I really appreciate that.
+
+00:03:00.940 --> 00:03:01.880
+That's a super kind button.
+
+00:03:04.220 --> 00:03:06.460
+Okay, so I got the chat windows open.
+
+00:03:06.660 --> 00:03:07.460
+We're ready to rock and roll.
+
+00:03:07.460 --> 00:03:08.660
+We're gonna do everything we can.
+
+00:03:08.800 --> 00:03:09.680
+We are live now.
+
+00:03:09.780 --> 00:03:11.900
+I apologize for the hiccups that we had.
+
+00:03:13.000 --> 00:03:16.280
+I think they might not be watchable
+
+00:03:16.280 --> 00:03:21.840
+because the livestream was so choppy prior.
+
+00:03:21.920 --> 00:03:23.560
+I don't know if any of the answers
+
+00:03:23.560 --> 00:03:27.360
+from the previous two streams are watchable,
+
+00:03:27.460 --> 00:03:29.120
+so I apologize for that.
+
+00:03:30.460 --> 00:03:32.600
+We've got Mr. Mackie with us, though.
+
+00:03:32.900 --> 00:03:34.140
+Hell yeah, Mr. Mackie.
+
+00:03:34.260 --> 00:03:34.940
+Oh, hold on.
+
+00:03:35.240 --> 00:03:36.840
+I gotta adjust my green screen.
+
+00:03:37.460 --> 00:03:38.060
+One second.
+
+00:03:39.220 --> 00:03:40.400
+All right.
+
+00:03:43.820 --> 00:03:46.440
+You can see you're missing the background
+
+00:03:46.440 --> 00:03:47.820
+on the super chat.
+
+00:03:47.960 --> 00:03:49.400
+One second, I apologize.
+
+00:03:50.920 --> 00:03:51.980
+I apologize.
+
+00:03:52.500 --> 00:03:57.780
+I had to do quite a bit of stuff on the last...
+
+00:03:57.780 --> 00:03:58.720
+There we go.
+
+00:04:00.020 --> 00:04:00.720
+There we go.
+
+00:04:01.240 --> 00:04:02.340
+That's pretty good.
+
+00:04:02.380 --> 00:04:03.820
+Now you should be able to read it.
+
+00:04:04.060 --> 00:04:06.020
+Yeah, your internet needs more cowbell.
+
+00:04:06.680 --> 00:04:07.700
+Indeed, it does.
+
+00:04:07.700 --> 00:04:11.120
+Actually, I've got a great internet set up right now.
+
+00:04:11.120 --> 00:04:12.680
+I'm actually streaming on fiber.
+
+00:04:13.480 --> 00:04:16.920
+I've got all kinds of internet to work with.
+
+00:04:17.460 --> 00:04:19.180
+My bandwidth is really good.
+
+00:04:20.080 --> 00:04:22.320
+If I get into a situation where my bandwidth
+
+00:04:22.320 --> 00:04:24.740
+is not meeting expectations,
+
+00:04:25.960 --> 00:04:28.520
+then it's gotta be on the YouTube server
+
+00:04:28.520 --> 00:04:30.160
+or the Streamlab server.
+
+00:04:31.120 --> 00:04:32.480
+And that seems to be the case
+
+00:04:32.480 --> 00:04:34.680
+because right now we're using OBS,
+
+00:04:34.680 --> 00:04:39.240
+which means 100% of the bandwidth is on my side now.
+
+00:04:39.240 --> 00:04:40.380
+It's using my hardware.
+
+00:04:40.720 --> 00:04:42.200
+And it seems like we're okay.
+
+00:04:42.760 --> 00:04:44.800
+So that being the case,
+
+00:04:45.000 --> 00:04:46.060
+I think we're good to go.
+
+00:04:46.200 --> 00:04:50.700
+I apologize that Streamlabs is doing what Streamlabs do.
+
+00:04:51.500 --> 00:04:53.020
+But what are you gonna do, you know?
+
+00:04:53.880 --> 00:04:55.200
+Sorry about that.
+
+00:04:57.000 --> 00:05:00.440
+SFP says, why are there no humans living in the ocean?
+
+00:05:00.540 --> 00:05:04.200
+It's because Jesus has been coming for 2000 years straight
+
+00:05:04.200 --> 00:05:05.580
+and he ran out of this.
+
+00:05:06.120 --> 00:05:08.500
+That's why the ocean is so salty, obviously.
+
+00:05:09.080 --> 00:05:10.960
+I mean, we could just put two together.
+
+00:05:11.200 --> 00:05:12.960
+He ran out of semen because it filled the ocean.
+
+00:05:13.080 --> 00:05:14.240
+That's why the ocean is salty.
+
+00:05:19.680 --> 00:05:21.960
+Yeah, really something.
+
+00:05:23.500 --> 00:05:25.840
+Could you imagine being like,
+
+00:05:27.640 --> 00:05:28.920
+I'm almost coming back.
+
+00:05:29.000 --> 00:05:29.700
+I'm almost coming.
+
+00:05:29.820 --> 00:05:30.540
+I'm almost coming.
+
+00:05:30.640 --> 00:05:32.420
+And then 2000 years later,
+
+00:05:32.960 --> 00:05:36.220
+what an unfulfilling session, Jesus.
+
+00:05:39.820 --> 00:05:41.680
+Ridiculous, ridiculous.
+
+00:05:42.980 --> 00:05:44.540
+And Carnage, great to see you, friend.
+
+00:05:44.700 --> 00:05:47.240
+Carnage says, here's for a better internet connection.
+
+00:05:47.340 --> 00:05:51.100
+My resolution this year is to help the needy.
+
+00:05:52.200 --> 00:05:53.520
+Well, thank you, Carnage.
+
+00:05:53.540 --> 00:05:54.920
+I appreciate that.
+
+00:05:57.160 --> 00:05:58.960
+I appreciate that, Carnage.
+
+00:06:01.160 --> 00:06:04.140
+Well, I don't know if I count as needy.
+
+00:06:04.320 --> 00:06:05.340
+I could be wrong.
+
+00:06:05.800 --> 00:06:08.400
+I think I'm getting by with the power of Doug.
+
+00:06:08.800 --> 00:06:11.140
+But I appreciate all the support for the channel.
+
+00:06:11.340 --> 00:06:12.140
+I really do.
+
+00:06:12.460 --> 00:06:13.660
+All the support for the channel
+
+00:06:13.660 --> 00:06:15.340
+is greatly appreciated, friends.
+
+00:06:15.960 --> 00:06:17.060
+And our friend David.
+
+00:06:17.820 --> 00:06:18.840
+Welcome to see you, David.
+
+00:06:18.900 --> 00:06:19.820
+Thanks for stopping in.
+
+00:06:19.820 --> 00:06:22.060
+Thank you for the $20 Super Chat says,
+
+00:06:22.680 --> 00:06:24.760
+is God circumcised?
+
+00:06:26.580 --> 00:06:28.080
+Was Jesus at birth?
+
+00:06:29.800 --> 00:06:33.160
+Was Jesus at birth if God knew it was necessary?
+
+00:06:34.260 --> 00:06:36.960
+So Jesus was circumcised on the eighth day
+
+00:06:36.960 --> 00:06:38.160
+according to custom.
+
+00:06:38.700 --> 00:06:41.600
+We read this, that's why they went to Jerusalem
+
+00:06:42.180 --> 00:06:43.800
+according to the Gospels.
+
+00:06:44.100 --> 00:06:46.740
+So it seems like he wasn't born circumcised.
+
+00:06:47.000 --> 00:06:48.520
+Now, whether or not God is circumcised,
+
+00:06:48.600 --> 00:06:51.420
+I assume not because Paul states
+
+00:06:52.200 --> 00:06:56.780
+that Jesus is the visible image of the invisible God,
+
+00:06:56.780 --> 00:06:58.420
+which means theoretically to Paul,
+
+00:06:59.240 --> 00:07:02.820
+Paul thinks that God is, the Father is immaterial.
+
+00:07:04.060 --> 00:07:05.800
+And at best case, he doesn't have a peen.
+
+00:07:06.960 --> 00:07:08.080
+So if God doesn't have a peen,
+
+00:07:08.300 --> 00:07:09.820
+then it seems like he's not circumcised.
+
+00:07:09.900 --> 00:07:13.920
+But that would betray the Old Testament
+
+00:07:13.920 --> 00:07:16.780
+because in the Old Testament, God smells, God hears,
+
+00:07:16.840 --> 00:07:20.220
+he sees, he has all the senses
+
+00:07:20.220 --> 00:07:21.880
+that a human being would have.
+
+00:07:22.200 --> 00:07:25.000
+He even has hands, he has a face.
+
+00:07:25.380 --> 00:07:26.100
+As far as we can tell,
+
+00:07:26.140 --> 00:07:28.320
+the God of the Old Testament does have a body.
+
+00:07:28.760 --> 00:07:31.740
+And if he does have a body, then he would have a peen.
+
+00:07:31.740 --> 00:07:34.840
+Now, whether or not he's circumcised is a different story
+
+00:07:36.060 --> 00:07:38.900
+because my theory is that circumcision
+
+00:07:38.900 --> 00:07:41.120
+originally developed as a habit
+
+00:07:41.120 --> 00:07:43.240
+for what they thought as cleanliness
+
+00:07:43.240 --> 00:07:45.080
+because they didn't bathe like we bathed.
+
+00:07:45.080 --> 00:07:46.840
+And so they would get infections.
+
+00:07:47.320 --> 00:07:49.300
+So I think they took after the Egyptians
+
+00:07:49.300 --> 00:07:50.780
+and circumcised themselves
+
+00:07:50.780 --> 00:07:54.520
+rather than bathing regularly enough to avoid infections.
+
+00:07:54.520 --> 00:07:55.880
+And then they had to explain it
+
+00:07:55.880 --> 00:07:57.740
+by saying, oh, fuck, God told us to.
+
+00:07:57.740 --> 00:07:59.620
+And if that's the case,
+
+00:07:59.980 --> 00:08:03.520
+if circumcision originated to deal with infection,
+
+00:08:04.000 --> 00:08:08.720
+then it seems to me that God wouldn't need to be circumcised
+
+00:08:08.720 --> 00:08:11.160
+because I don't think he gets penile infections in heaven.
+
+00:08:11.540 --> 00:08:13.500
+That, I mean, this seems to be the case.
+
+00:08:13.740 --> 00:08:14.960
+I could be wrong,
+
+00:08:15.380 --> 00:08:18.020
+but that's how I'm reading the situation.
+
+00:08:18.420 --> 00:08:21.060
+And as Sharer says, what's your MBTI type?
+
+00:08:21.080 --> 00:08:23.700
+I think it's ENFJ.
+
+00:08:24.980 --> 00:08:27.180
+I haven't taken it in a long time.
+
+00:08:28.300 --> 00:08:31.100
+But what I can tell you, I forget my letter designation.
+
+00:08:31.600 --> 00:08:34.240
+What I can tell you is that every time I've taken it,
+
+00:08:34.400 --> 00:08:36.520
+I get the same thing as every other engineer.
+
+00:08:37.220 --> 00:08:41.300
+All the engineers end up with the same personality profile
+
+00:08:41.300 --> 00:08:42.280
+for the Myers-Briggs.
+
+00:08:43.620 --> 00:08:46.960
+So if you just Google the typical engineer
+
+00:08:46.960 --> 00:08:49.440
+Myers-Briggs type inventory,
+
+00:08:51.100 --> 00:08:52.840
+you'll end up with me.
+
+00:08:53.340 --> 00:08:56.640
+So I forget what it is though, I apologize.
+
+00:08:57.100 --> 00:09:00.700
+But yeah, I think my personality is pretty easy to peg.
+
+00:09:02.700 --> 00:09:03.620
+So there's that.
+
+00:09:03.720 --> 00:09:04.660
+Good question though.
+
+00:09:05.060 --> 00:09:07.020
+Dustin says, good morning, Justin.
+
+00:09:07.880 --> 00:09:09.300
+So one of my favorite talking points
+
+00:09:09.300 --> 00:09:10.900
+is the very obvious inspiration
+
+00:09:10.900 --> 00:09:11.860
+of the Old Testament authors
+
+00:09:11.860 --> 00:09:13.520
+pulled from the surrounding cultures,
+
+00:09:13.700 --> 00:09:15.660
+i.e. flood, narrative, tower, babble, et cetera.
+
+00:09:15.820 --> 00:09:18.500
+What do you, do you have a favorite?
+
+00:09:21.630 --> 00:09:24.390
+First of all, the talking point that you like is true.
+
+00:09:24.910 --> 00:09:26.690
+The Old Testament authors did pull
+
+00:09:26.690 --> 00:09:27.870
+from the Babylonian literature.
+
+00:09:28.050 --> 00:09:31.590
+In fact, the first 11 chapters of the Book of Genesis,
+
+00:09:31.850 --> 00:09:34.050
+everything in there, every last story,
+
+00:09:35.150 --> 00:09:37.450
+there's a parallel in the Babylonian literature.
+
+00:09:37.830 --> 00:09:38.910
+So it's just obvious.
+
+00:09:38.990 --> 00:09:40.390
+They pulled from Babylonian literature.
+
+00:09:40.870 --> 00:09:43.370
+Now the problem is it's hard to prove that to a Christian.
+
+00:09:44.190 --> 00:09:45.770
+So, and it takes a lot of time.
+
+00:09:45.850 --> 00:09:48.250
+So I don't use that argument too often during the debates,
+
+00:09:48.250 --> 00:09:50.230
+but I 100% agree with you.
+
+00:09:50.470 --> 00:09:51.890
+It was one of the things
+
+00:09:51.890 --> 00:09:55.210
+that really catapulted my deconstruction
+
+00:09:55.210 --> 00:09:57.550
+was realizing that these stories weren't authentic
+
+00:09:57.550 --> 00:10:00.050
+and they weren't even native to just the Bible,
+
+00:10:00.070 --> 00:10:00.870
+they were robbed.
+
+00:10:01.410 --> 00:10:02.690
+So if that's the case,
+
+00:10:03.610 --> 00:10:05.150
+and the New Testament treats them
+
+00:10:05.150 --> 00:10:06.770
+like their legitimate history,
+
+00:10:07.270 --> 00:10:09.990
+well, then the New Testament is not true.
+
+00:10:10.290 --> 00:10:11.490
+That's what that means.
+
+00:10:12.570 --> 00:10:14.610
+But my favorite talking point,
+
+00:10:15.690 --> 00:10:17.570
+and people who know my channel know this,
+
+00:10:18.670 --> 00:10:20.670
+my favorite talking point ever,
+
+00:10:20.670 --> 00:10:22.730
+and I would talk about it every single day,
+
+00:10:22.910 --> 00:10:25.310
+my favorite talking point is in fact
+
+00:10:25.310 --> 00:10:28.050
+that Jesus did not fulfill any messianic prophecies,
+
+00:10:28.110 --> 00:10:30.750
+not even one, not even close to one.
+
+00:10:31.790 --> 00:10:34.330
+And so for me, that's all I need to know
+
+00:10:34.330 --> 00:10:35.810
+to know that Christianity is not true.
+
+00:10:35.850 --> 00:10:37.910
+Now, if you want to debunk the entire Bible
+
+00:10:37.910 --> 00:10:38.490
+and you're like, listen,
+
+00:10:38.530 --> 00:10:41.110
+it's not good enough just to debunk Christianity,
+
+00:10:41.190 --> 00:10:42.990
+we need to debunk the Old Testament too.
+
+00:10:43.630 --> 00:10:44.430
+If that's the case,
+
+00:10:44.430 --> 00:10:46.050
+if you really want to debunk the Old Testament,
+
+00:10:46.450 --> 00:10:49.690
+I would go in and show all the unscientific stuff in there,
+
+00:10:49.690 --> 00:10:51.210
+the firmament, the flat earth,
+
+00:10:51.590 --> 00:10:54.530
+the bad geological record from the flood,
+
+00:10:54.650 --> 00:10:57.330
+how the animals certainly couldn't have
+
+00:10:57.330 --> 00:10:59.390
+repopulated the earth with what they started from,
+
+00:10:59.430 --> 00:11:01.110
+how the flood story doesn't make any sense
+
+00:11:01.110 --> 00:11:02.890
+because there's no way to get food on the ark
+
+00:11:02.890 --> 00:11:04.330
+for all the carnivorous animals
+
+00:11:04.330 --> 00:11:06.110
+and still have space for them,
+
+00:11:06.110 --> 00:11:10.810
+or how you couldn't collect any food for the koala bears
+
+00:11:10.810 --> 00:11:12.210
+because they have such a specific diet.
+
+00:11:12.210 --> 00:11:13.190
+And the panda bears,
+
+00:11:13.590 --> 00:11:17.670
+where are you getting all the bamboo from for 371 days?
+
+00:11:18.450 --> 00:11:21.710
+Whereas these narratives, they're simply fictitious.
+
+00:11:21.990 --> 00:11:23.750
+They can't be true, right?
+
+00:11:23.790 --> 00:11:26.050
+And so that's a good way of getting at the Old Testament.
+
+00:11:27.810 --> 00:11:29.370
+Also, thank you for sending out
+
+00:11:29.370 --> 00:11:31.550
+five deconstruction zone memberships, Johanna.
+
+00:11:31.570 --> 00:11:32.730
+It's great to see you, friend.
+
+00:11:33.010 --> 00:11:34.710
+Welcome to the stream.
+
+00:11:34.710 --> 00:11:38.010
+And Brittany says, if Paul thought Jesus died for our sins
+
+00:11:38.010 --> 00:11:39.510
+and the old laws passed away,
+
+00:11:39.690 --> 00:11:42.350
+why did he go to the temple for purification
+
+00:11:42.350 --> 00:11:44.930
+and sacrificial offerings in Acts?
+
+00:11:45.590 --> 00:11:47.250
+My reading of Paul is this.
+
+00:11:47.470 --> 00:11:50.610
+I don't think Paul knows right away what to do.
+
+00:11:54.660 --> 00:11:58.080
+I don't think he knew right away what the situation was.
+
+00:11:58.780 --> 00:12:02.180
+When I'm reading Paul, I'm seeing a Paul
+
+00:12:02.180 --> 00:12:05.200
+that is trying to figure it out as he goes.
+
+00:12:06.360 --> 00:12:09.760
+And so I don't know if Paul knew right away
+
+00:12:09.760 --> 00:12:10.960
+what the situation was.
+
+00:12:11.060 --> 00:12:11.800
+That being said,
+
+00:12:11.820 --> 00:12:14.320
+I don't know if he participated
+
+00:12:14.320 --> 00:12:16.340
+in the sacrificial offerings.
+
+00:12:26.600 --> 00:12:30.340
+I can't think of the section in Acts.
+
+00:12:31.680 --> 00:12:34.080
+In the festival, in Acts 21,
+
+00:12:34.220 --> 00:12:35.520
+I think is what you're referring to.
+
+00:12:35.880 --> 00:12:37.760
+Let's grab Acts 21 and take a look at this.
+
+00:12:37.820 --> 00:12:40.440
+We don't get to read Acts 21 very often.
+
+00:12:41.560 --> 00:12:44.160
+In Acts 21, you're almost near the point
+
+00:12:44.160 --> 00:12:46.440
+where it seems like he's getting close
+
+00:12:46.440 --> 00:12:49.180
+to being in custody, but let's get Acts 21 open.
+
+00:12:50.860 --> 00:12:53.680
+So he's giving some of the voyage
+
+00:12:53.680 --> 00:12:57.280
+and this is some of the famous we passages,
+
+00:12:58.320 --> 00:12:59.440
+which are a lot of fun.
+
+00:13:00.600 --> 00:13:02.800
+So in the famous we passages,
+
+00:13:03.700 --> 00:13:06.320
+it says, when our days there were ended,
+
+00:13:06.360 --> 00:13:08.140
+we left and proceeded on our journey
+
+00:13:08.140 --> 00:13:10.360
+and all of them with wives and children
+
+00:13:10.360 --> 00:13:11.740
+escorted us outside the city.
+
+00:13:12.200 --> 00:13:12.780
+We're there.
+
+00:13:13.000 --> 00:13:15.860
+We know, blah, blah, blah, blah, blah.
+
+00:13:15.900 --> 00:13:16.600
+Did I read?
+
+00:13:16.960 --> 00:13:18.120
+Where is it?
+
+00:13:19.940 --> 00:13:21.520
+That was Acts 21, six.
+
+00:13:23.100 --> 00:13:25.000
+What was, what I missed?
+
+00:13:25.160 --> 00:13:26.260
+What I missed, what I missed?
+
+00:13:26.560 --> 00:13:27.340
+I grabbed the wrong verse.
+
+00:13:27.980 --> 00:13:30.060
+I do fat finger the verse when I typed it in.
+
+00:13:30.080 --> 00:13:30.760
+All right, give me one second.
+
+00:13:30.840 --> 00:13:31.520
+I apologize.
+
+00:13:32.640 --> 00:13:34.320
+What verse was I looking for?
+
+00:13:36.960 --> 00:13:38.240
+Oh, I'm a dummy.
+
+00:13:38.860 --> 00:13:41.480
+It's Acts 21, 26.
+
+00:13:42.100 --> 00:13:44.520
+Acts 21, 26, cool.
+
+00:13:46.360 --> 00:13:50.260
+Okay, this is Paul's visit to James in Jerusalem
+
+00:13:50.260 --> 00:13:53.300
+and then while they're in Jerusalem,
+
+00:13:53.620 --> 00:13:56.400
+says, but as for the Gentiles who have become believers,
+
+00:13:56.440 --> 00:13:58.600
+we have sent a letter with our judgment
+
+00:13:58.600 --> 00:14:02.040
+that they should abstain from what has been sacrificed
+
+00:14:02.040 --> 00:14:03.360
+to idols and from blood
+
+00:14:03.360 --> 00:14:05.960
+and from what is strangled and sexual impurity.
+
+00:14:05.960 --> 00:14:08.800
+Yes, this is Acts chapter 15 where this is explained.
+
+00:14:09.520 --> 00:14:12.580
+Then Paul took them in and the next day,
+
+00:14:12.760 --> 00:14:14.100
+having purified himself,
+
+00:14:14.580 --> 00:14:15.980
+he entered the temple with them,
+
+00:14:16.240 --> 00:14:19.000
+making public completion of the days of purification
+
+00:14:19.000 --> 00:14:22.500
+when the sacrifice would be made for each of them.
+
+00:14:22.900 --> 00:14:25.360
+That is actually interesting.
+
+00:14:27.520 --> 00:14:29.320
+Because he didn't have to.
+
+00:14:32.460 --> 00:14:34.420
+That's something I haven't thought about before.
+
+00:14:34.500 --> 00:14:36.120
+This is actually a really interesting question.
+
+00:14:36.120 --> 00:14:38.180
+I can't believe it's never come up before
+
+00:14:40.120 --> 00:14:44.700
+because certainly here, there's no requirement, right?
+
+00:14:44.720 --> 00:14:46.000
+Jesus is already dead.
+
+00:14:46.580 --> 00:14:48.740
+There's no requirement to do the purification.
+
+00:14:51.210 --> 00:14:53.990
+I'm curious if there was others with them
+
+00:14:53.990 --> 00:14:55.810
+that were like, no, no, you got to.
+
+00:14:56.190 --> 00:14:57.430
+You gotta follow the customs.
+
+00:14:57.910 --> 00:15:00.070
+You gotta follow the customs, Paul.
+
+00:15:02.230 --> 00:15:03.930
+But there's obviously more men there.
+
+00:15:03.950 --> 00:15:07.510
+Paul took the men and the next day purified himself.
+
+00:15:07.510 --> 00:15:09.070
+So there's multiple people there.
+
+00:15:09.230 --> 00:15:10.710
+And then, of course, you've got the arrest
+
+00:15:11.490 --> 00:15:13.390
+coming up right here.
+
+00:15:14.770 --> 00:15:15.890
+Wow, what an interesting,
+
+00:15:16.250 --> 00:15:17.550
+I don't know what to make of that just yet.
+
+00:15:17.590 --> 00:15:18.970
+You'll have to let me look into that.
+
+00:15:18.990 --> 00:15:20.410
+That's a really good question.
+
+00:15:20.730 --> 00:15:21.090
+Shit.
+
+00:15:23.450 --> 00:15:25.010
+What the hell was he doing there?
+
+00:15:25.050 --> 00:15:25.870
+He shouldn't have been there.
+
+00:15:26.650 --> 00:15:28.010
+According to Paulian theology,
+
+00:15:28.110 --> 00:15:30.650
+let's just say the thing that needs to be said first,
+
+00:15:30.650 --> 00:15:33.370
+which is that he certainly didn't need to be there
+
+00:15:33.370 --> 00:15:34.970
+to doing any purification acts.
+
+00:15:35.250 --> 00:15:38.150
+If he was doing any rites of purification,
+
+00:15:38.570 --> 00:15:40.130
+it had to be completely voluntary,
+
+00:15:40.150 --> 00:15:42.010
+at least in Paul's point of view.
+
+00:15:44.130 --> 00:15:45.610
+That's actually a really good question.
+
+00:15:45.990 --> 00:15:47.870
+I'm gonna think on that when we get,
+
+00:15:47.950 --> 00:15:49.330
+maybe our next question in here,
+
+00:15:49.350 --> 00:15:52.010
+I'm gonna think on a possible answer for that though.
+
+00:15:52.350 --> 00:15:52.950
+That's a good question.
+
+00:15:53.050 --> 00:15:55.510
+Johanna says, God may have a hoodie,
+
+00:15:55.510 --> 00:15:57.190
+maybe he doesn't,
+
+00:15:57.770 --> 00:15:59.890
+but he sure likes collecting them.
+
+00:16:01.150 --> 00:16:05.590
+What if the reason why God collects so-called hoodies
+
+00:16:05.590 --> 00:16:08.770
+is because he doesn't have one and he's jealous?
+
+00:16:09.190 --> 00:16:11.230
+If I can't have one, nobody can.
+
+00:16:11.710 --> 00:16:13.730
+That's what's happening with the foreskin situation.
+
+00:16:14.210 --> 00:16:16.270
+God's like, if I can't have a fucking foreskin,
+
+00:16:16.350 --> 00:16:17.850
+nobody gets one.
+
+00:16:19.090 --> 00:16:23.230
+And if you keep yours, you're in big fucking trouble.
+
+00:16:24.630 --> 00:16:27.030
+Actually, I think that's a believable concept.
+
+00:16:28.370 --> 00:16:29.490
+I'm done with that one.
+
+00:16:29.690 --> 00:16:30.650
+I'm done with that one.
+
+00:16:31.030 --> 00:16:33.210
+I'm gonna ask, I'm gonna see if the internet has the
+
+00:16:33.210 --> 00:16:33.770
+answers.
+
+00:16:33.790 --> 00:16:41.760
+I'm gonna say, why did Paul follow purification rites
+
+00:16:43.260 --> 00:16:44.620
+in Acts 21?
+
+00:16:45.160 --> 00:16:48.020
+Surely somebody has an interesting answer to this.
+
+00:16:48.880 --> 00:16:50.380
+Yeah, I mean, everyone's just saying
+
+00:16:50.380 --> 00:16:51.500
+it's out of respect.
+
+00:16:51.800 --> 00:16:53.820
+Yeah, is it due to respect for the Jewish customs?
+
+00:16:53.820 --> 00:16:54.680
+Yeah, we know.
+
+00:16:55.200 --> 00:16:56.300
+We know, but why?
+
+00:16:56.540 --> 00:16:57.480
+Why does he care?
+
+00:16:57.520 --> 00:17:00.680
+Because he tells everyone not to do that.
+
+00:17:00.880 --> 00:17:02.820
+He specifically says not to do it.
+
+00:17:03.220 --> 00:17:08.100
+Maybe the real answer is that Paul's just a hypocrite.
+
+00:17:09.240 --> 00:17:10.060
+You know what I mean?
+
+00:17:12.320 --> 00:17:15.920
+I don't see any good answers on the usual places.
+
+00:17:18.560 --> 00:17:20.100
+I'll hit around for this.
+
+00:17:20.180 --> 00:17:21.520
+Now I wanna know the answer too.
+
+00:17:21.660 --> 00:17:23.120
+I don't know if there's a good answer
+
+00:17:23.120 --> 00:17:25.420
+other than Paul's a hypocrite, which we've seen elsewhere,
+
+00:17:25.840 --> 00:17:27.900
+where he tells you not to follow the law.
+
+00:17:27.900 --> 00:17:29.140
+The law has been abolished.
+
+00:17:29.400 --> 00:17:31.340
+That's Ephesians chapter two says
+
+00:17:31.340 --> 00:17:33.700
+that it's been completely abolished.
+
+00:17:33.720 --> 00:17:36.720
+But then he goes on later to say,
+
+00:17:36.720 --> 00:17:38.700
+well, if you don't follow these certain laws,
+
+00:17:38.740 --> 00:17:39.600
+you'll go to hell.
+
+00:17:40.080 --> 00:17:41.700
+Like he talks through both sides of his mouth
+
+00:17:41.700 --> 00:17:42.540
+all the time.
+
+00:17:42.720 --> 00:17:44.420
+This might be one of those cases.
+
+00:17:44.420 --> 00:17:47.600
+Drew says, why couldn't God defeat chariots of iron?
+
+00:17:48.320 --> 00:17:50.520
+Am I safe from God while I'm in my chair?
+
+00:17:51.220 --> 00:17:54.620
+And referring to judges, there's a passage in Judges.
+
+00:17:56.180 --> 00:17:58.380
+Was it chapter two?
+
+00:17:59.040 --> 00:18:02.160
+The chariots of iron, I think it's like 211 maybe,
+
+00:18:02.160 --> 00:18:03.320
+if I remember correctly.
+
+00:18:04.160 --> 00:18:07.660
+So there's a passage in Judges two
+
+00:18:07.660 --> 00:18:13.480
+where Yahweh goes to battle with the Judeans.
+
+00:18:16.720 --> 00:18:20.620
+And it couldn't defeat them
+
+00:18:20.620 --> 00:18:22.240
+because they had chariots of iron.
+
+00:18:22.380 --> 00:18:23.600
+Let me grab it, it might be Judges one.
+
+00:18:23.660 --> 00:18:25.960
+I apologize, probably Judges one.
+
+00:18:27.640 --> 00:18:28.560
+All right.
+
+00:18:29.540 --> 00:18:31.300
+Oh shit, I'm in Joshua.
+
+00:18:32.540 --> 00:18:34.020
+I want Judges, there we go.
+
+00:18:34.040 --> 00:18:35.260
+And now we're in Judges.
+
+00:18:36.700 --> 00:18:40.020
+Yeah, Judges 119, I was off by a bit there.
+
+00:18:40.100 --> 00:18:41.680
+Let me grab Judges 119
+
+00:18:41.680 --> 00:18:46.960
+because it's such a funny thing that this even happens.
+
+00:18:47.120 --> 00:18:57.160
+Judges 119, shit, Drew's super chat is open.
+
+00:18:57.260 --> 00:18:58.560
+Okay, let me take care of that.
+
+00:18:59.180 --> 00:19:03.460
+It says, we're gonna get there.
+
+00:19:03.800 --> 00:19:05.360
+The Lord was with Judah.
+
+00:19:05.540 --> 00:19:06.820
+Okay, so they're in battle.
+
+00:19:07.260 --> 00:19:08.940
+And the Lord was with Judah, obviously,
+
+00:19:08.980 --> 00:19:11.680
+because that's the strength of the people, right?
+
+00:19:11.680 --> 00:19:13.160
+The Lord was with Judah
+
+00:19:13.160 --> 00:19:15.060
+and he took possession of the hill country
+
+00:19:15.060 --> 00:19:17.180
+but could not drive out the inhabitants of the plain
+
+00:19:17.180 --> 00:19:20.040
+because they had chariots of iron.
+
+00:19:20.100 --> 00:19:24.900
+Now, obviously, there's been a lot of hubbub made
+
+00:19:24.900 --> 00:19:29.220
+about the fact that it says he rather than they.
+
+00:19:29.620 --> 00:19:31.400
+And people will say, because it says he,
+
+00:19:31.580 --> 00:19:34.860
+it must be referring to Yahweh and not to the people.
+
+00:19:35.300 --> 00:19:41.780
+But the people in Hebrew would be ha'am,
+
+00:19:42.620 --> 00:19:46.280
+would be like a collective.
+
+00:19:47.060 --> 00:19:48.940
+Like it's technically singular,
+
+00:19:49.560 --> 00:19:51.120
+but it's used as a collective.
+
+00:19:51.520 --> 00:19:55.040
+Or sometimes it's a collective used as a singular.
+
+00:19:55.580 --> 00:19:57.660
+So when it talks about he,
+
+00:19:58.060 --> 00:20:01.680
+he would mean the people of Judah, right?
+
+00:20:01.680 --> 00:20:03.120
+Or just Judah proper.
+
+00:20:03.480 --> 00:20:05.520
+So you don't have to interpret he
+
+00:20:06.400 --> 00:20:09.120
+as a singular entity like Yahweh.
+
+00:20:09.560 --> 00:20:11.140
+It could actually be referring to the people.
+
+00:20:11.140 --> 00:20:13.200
+Now, here's why that doesn't matter though.
+
+00:20:13.340 --> 00:20:14.400
+None of that's actually relevant.
+
+00:20:14.740 --> 00:20:17.780
+Whether or not the he is referring to the Lord or to Judah,
+
+00:20:18.220 --> 00:20:21.640
+it doesn't matter because if the Lord was with Judah,
+
+00:20:22.180 --> 00:20:24.960
+meaning that's why they're winning the war
+
+00:20:24.960 --> 00:20:26.640
+because the Lord is with them,
+
+00:20:26.940 --> 00:20:28.920
+that means he's still ultimately responsible
+
+00:20:28.920 --> 00:20:30.500
+for the failure of not being able
+
+00:20:30.500 --> 00:20:32.000
+to drive out the chariots of iron.
+
+00:20:32.300 --> 00:20:34.460
+And this is not the first time God couldn't do something.
+
+00:20:34.460 --> 00:20:37.400
+Think of Mark chapter six, verse five and six,
+
+00:20:37.700 --> 00:20:39.260
+where Jesus couldn't heal people
+
+00:20:39.260 --> 00:20:40.900
+because of their lack of faith.
+
+00:20:41.280 --> 00:20:42.620
+And we, of course, second kings,
+
+00:20:42.780 --> 00:20:44.340
+or first kings, chapter two,
+
+00:20:44.900 --> 00:20:46.400
+I always forget if first or second kings,
+
+00:20:46.500 --> 00:20:48.480
+I'm gonna say second kings two,
+
+00:20:51.110 --> 00:20:53.110
+where there's a war with Moab
+
+00:20:53.690 --> 00:20:55.790
+and they get fucked up by Moab
+
+00:20:55.790 --> 00:20:58.530
+because the king of Moab sacrifices his son
+
+00:20:58.530 --> 00:21:00.570
+in the middle of the losing battle.
+
+00:21:01.330 --> 00:21:03.770
+So God does in fact lose.
+
+00:21:04.430 --> 00:21:08.270
+Like there are things he can't do in the Bible
+
+00:21:08.270 --> 00:21:09.210
+and in the Hebrew Bible.
+
+00:21:09.450 --> 00:21:11.090
+Was it second kings three?
+
+00:21:11.670 --> 00:21:12.610
+Let me try this again.
+
+00:21:13.570 --> 00:21:15.390
+My memory's off today, I need more sleep.
+
+00:21:19.240 --> 00:21:20.900
+Yeah, second kings, chapter three
+
+00:21:20.900 --> 00:21:23.840
+is when they lose the war to the Moabites.
+
+00:21:25.020 --> 00:21:26.500
+The prophet Jehoshaphat,
+
+00:21:26.820 --> 00:21:30.320
+or the prophets alongside Jehoshaphat
+
+00:21:30.320 --> 00:21:32.820
+literally said that they're gonna win the war.
+
+00:21:32.900 --> 00:21:34.820
+God will deliver them into your hands.
+
+00:21:35.400 --> 00:21:37.560
+And then what happens is the opposite of that.
+
+00:21:37.620 --> 00:21:39.360
+It says that he took his firstborn, King Masha,
+
+00:21:39.900 --> 00:21:41.620
+his firstborn son who would succeed him
+
+00:21:41.620 --> 00:21:43.460
+and offer him as a burnt offering on the wall
+
+00:21:43.460 --> 00:21:45.160
+and great wrath came upon Israel
+
+00:21:45.160 --> 00:21:47.780
+so they withdrew from him and returned to their own land.
+
+00:21:48.760 --> 00:21:50.720
+So God just can't do some shit in the Bible.
+
+00:21:50.880 --> 00:21:52.140
+And those are two cases
+
+00:21:52.140 --> 00:21:54.340
+where God clearly can't do things.
+
+00:21:54.720 --> 00:21:57.000
+It's pretty crazy to think about actually.
+
+00:21:57.740 --> 00:21:59.460
+Let me grab the next one, great question.
+
+00:21:59.460 --> 00:22:04.660
+Roger says, hi from a creepy EE, but not a bad coder.
+
+00:22:04.860 --> 00:22:06.960
+What was a crappy EE about it?
+
+00:22:07.280 --> 00:22:08.800
+Well, listen, you'd be surprised
+
+00:22:08.800 --> 00:22:10.460
+at how many electrical engineers
+
+00:22:10.460 --> 00:22:11.860
+spent their career coding
+
+00:22:12.440 --> 00:22:14.440
+rather than doing electrical engineering work
+
+00:22:14.440 --> 00:22:16.440
+and how many coders I've met
+
+00:22:16.440 --> 00:22:18.520
+that did like a computer science degree
+
+00:22:18.520 --> 00:22:20.300
+that ended up doing electrical engineering.
+
+00:22:20.800 --> 00:22:22.080
+There's a lot of crossover.
+
+00:22:22.340 --> 00:22:23.960
+Now, one thing I've seen lately
+
+00:22:23.960 --> 00:22:25.480
+in like the last 10 years
+
+00:22:25.480 --> 00:22:27.840
+is in the field of controls
+
+00:22:27.840 --> 00:22:29.620
+and the field of automation,
+
+00:22:30.160 --> 00:22:32.040
+they're hiring a lot more people
+
+00:22:32.040 --> 00:22:33.620
+with computer science
+
+00:22:33.620 --> 00:22:35.480
+or computer engineering backgrounds
+
+00:22:35.480 --> 00:22:37.240
+than they are electrical engineers
+
+00:22:37.240 --> 00:22:39.680
+because they can do the same thing
+
+00:22:39.680 --> 00:22:41.600
+as control engineers can do typically.
+
+00:22:41.600 --> 00:22:43.600
+They can do electrical drawings.
+
+00:22:44.080 --> 00:22:47.380
+And then on top of it,
+
+00:22:47.380 --> 00:22:48.540
+they're really good at coding.
+
+00:22:48.940 --> 00:22:51.020
+And almost all electrical engineers today
+
+00:22:51.020 --> 00:22:52.380
+have to be able to do coding.
+
+00:22:53.020 --> 00:22:53.680
+So welcome.
+
+00:22:53.980 --> 00:22:55.520
+Edward says, have you considered,
+
+00:22:56.360 --> 00:22:58.200
+W is not W.
+
+00:22:59.060 --> 00:23:00.780
+I haven't considered that.
+
+00:23:00.960 --> 00:23:02.240
+Words are not words.
+
+00:23:02.720 --> 00:23:04.260
+I do appreciate the formulation.
+
+00:23:04.340 --> 00:23:05.620
+That's actually a really good one.
+
+00:23:05.780 --> 00:23:10.420
+We should do to shorten down that slogan.
+
+00:23:11.060 --> 00:23:13.080
+We can do words don't mean words
+
+00:23:13.080 --> 00:23:14.440
+in that particular format.
+
+00:23:14.480 --> 00:23:15.980
+And I love this format.
+
+00:23:16.400 --> 00:23:17.800
+We'll make this a reality.
+
+00:23:17.840 --> 00:23:18.920
+This is a good idea.
+
+00:23:20.800 --> 00:23:22.300
+And Johanna says, quick question.
+
+00:23:22.340 --> 00:23:24.680
+How do I change my credit card?
+
+00:23:25.160 --> 00:23:26.400
+Oh, I don't know.
+
+00:23:26.920 --> 00:23:28.120
+I have no idea actually.
+
+00:23:28.500 --> 00:23:30.040
+I assume you mean within YouTube.
+
+00:23:30.160 --> 00:23:31.020
+Like you have to give it
+
+00:23:31.020 --> 00:23:31.900
+your credit card information
+
+00:23:31.900 --> 00:23:33.380
+when you sign up to send super chats.
+
+00:23:33.620 --> 00:23:35.160
+And that I don't know.
+
+00:23:36.020 --> 00:23:37.920
+When I first started sending super chats,
+
+00:23:37.960 --> 00:23:39.940
+it asked me for my payment information
+
+00:23:39.940 --> 00:23:40.960
+and I entered it
+
+00:23:40.960 --> 00:23:42.260
+and I don't know where it went to.
+
+00:23:42.580 --> 00:23:43.680
+It's in the ether now.
+
+00:23:43.860 --> 00:23:44.840
+The ether owns it.
+
+00:23:44.920 --> 00:23:45.600
+YouTube owns it.
+
+00:23:45.600 --> 00:23:47.020
+I don't know how to change it, my friend.
+
+00:23:47.800 --> 00:23:49.320
+Marcus, thank you for the question.
+
+00:23:49.500 --> 00:23:51.060
+Says, what is the specific arguments
+
+00:23:51.060 --> 00:23:52.340
+you've heard from apologists
+
+00:23:52.340 --> 00:23:54.760
+that make sense of the detailed instructions
+
+00:23:54.760 --> 00:23:56.940
+of animal sacrifice in Ezekiel's vision
+
+00:23:56.940 --> 00:23:57.920
+of the Messianic temple?
+
+00:23:58.040 --> 00:23:58.580
+Well, first of all,
+
+00:23:59.340 --> 00:24:02.480
+I've only heard one person attempt to address it.
+
+00:24:03.900 --> 00:24:05.940
+Most theists don't know it's there.
+
+00:24:06.060 --> 00:24:07.700
+Most Christians don't know it's even there.
+
+00:24:07.740 --> 00:24:09.380
+They have no idea what to do with it.
+
+00:24:09.380 --> 00:24:12.220
+That being said, the ones that are aware of it
+
+00:24:12.220 --> 00:24:13.300
+had tried to say,
+
+00:24:13.560 --> 00:24:16.200
+well, when Jesus comes back,
+
+00:24:16.740 --> 00:24:19.180
+the sacrificial system and the land and everything
+
+00:24:19.180 --> 00:24:20.280
+is gonna be restored
+
+00:24:20.680 --> 00:24:24.300
+and then we're gonna do the sacrifices and offerings.
+
+00:24:24.400 --> 00:24:25.880
+Therefore, Ezekiel's not lying.
+
+00:24:25.880 --> 00:24:27.160
+It's gonna happen when he comes back.
+
+00:24:27.160 --> 00:24:28.320
+But this is stupid.
+
+00:24:28.500 --> 00:24:30.020
+This is a stupid apologetic
+
+00:24:30.020 --> 00:24:31.940
+because the entirety of the New Testament
+
+00:24:31.940 --> 00:24:34.440
+teaches that Jesus was the final sacrifice.
+
+00:24:35.200 --> 00:24:36.060
+That's it.
+
+00:24:36.060 --> 00:24:38.700
+We don't need any of these sin sacrifices
+
+00:24:38.700 --> 00:24:40.760
+from Ezekiel 45.
+
+00:24:40.860 --> 00:24:41.700
+We don't need them.
+
+00:24:41.920 --> 00:24:43.420
+Jesus was the last one,
+
+00:24:43.420 --> 00:24:45.120
+once and for all, one and done.
+
+00:24:45.740 --> 00:24:49.180
+So that, as for an argument against Ezekiel,
+
+00:24:49.220 --> 00:24:50.420
+I've never heard a good one.
+
+00:24:50.840 --> 00:24:51.740
+I've heard arguments.
+
+00:24:51.920 --> 00:24:53.440
+I've never heard a good argument.
+
+00:24:53.600 --> 00:24:56.980
+The reality is Christians aren't reading the Old Testament.
+
+00:24:57.460 --> 00:24:59.380
+They're sure as hell not reading Ezekiel.
+
+00:25:05.560 --> 00:25:08.380
+Doc Pluroma, thank you for the question.
+
+00:25:08.380 --> 00:25:11.400
+Also, friends, I can't stream late today.
+
+00:25:11.860 --> 00:25:14.400
+So I've already got a bunch of questions in the queue.
+
+00:25:14.640 --> 00:25:17.340
+So I'm gonna end it here in like a half hour
+
+00:25:17.340 --> 00:25:18.900
+or 45 minutes,
+
+00:25:18.900 --> 00:25:20.260
+because I'm taking my son to the beach.
+
+00:25:20.300 --> 00:25:21.540
+We're gonna go have a lot of fun.
+
+00:25:21.600 --> 00:25:23.360
+So I'm gonna get through all the questions
+
+00:25:23.360 --> 00:25:24.340
+that we have now.
+
+00:25:24.560 --> 00:25:26.460
+Unfortunately, we wasted a bunch of time
+
+00:25:26.460 --> 00:25:27.740
+on non-working streams.
+
+00:25:27.940 --> 00:25:30.260
+Those streams are working with OBS.
+
+00:25:30.260 --> 00:25:32.260
+Maybe in the future, I'll just use OBS.
+
+00:25:32.400 --> 00:25:34.360
+Maybe I won't use Streamlabs anymore
+
+00:25:35.520 --> 00:25:37.360
+if Streamlabs can't cooperate.
+
+00:25:38.380 --> 00:25:39.600
+But we got a question from Doc says,
+
+00:25:39.640 --> 00:25:42.280
+do you think Paul would be baffled or amused
+
+00:25:42.280 --> 00:25:46.860
+by how much we obsess over his thorn in his side?
+
+00:25:49.420 --> 00:25:51.400
+Maybe he just wanted a good excuse
+
+00:25:51.400 --> 00:25:52.420
+to skip a few meetings.
+
+00:25:52.580 --> 00:25:54.100
+This is such a good point.
+
+00:25:56.500 --> 00:25:58.420
+So no one really knows
+
+00:25:58.420 --> 00:26:00.220
+what the thorn in Paul's side is.
+
+00:26:00.520 --> 00:26:03.040
+But when he uttered those words,
+
+00:26:03.220 --> 00:26:06.280
+did he believe that people would be wasting
+
+00:26:06.280 --> 00:26:08.380
+valuable time trying to figure out
+
+00:26:08.380 --> 00:26:09.920
+what the hell the thorn in the side was?
+
+00:26:10.080 --> 00:26:10.860
+No way.
+
+00:26:11.220 --> 00:26:12.700
+No way he thought that.
+
+00:26:13.160 --> 00:26:14.800
+And the fact that people do,
+
+00:26:15.140 --> 00:26:17.060
+the fact that people literally obsess
+
+00:26:17.060 --> 00:26:20.380
+over these super irrelevant topics,
+
+00:26:20.860 --> 00:26:23.500
+just shows you that the state of Christianity
+
+00:26:23.500 --> 00:26:25.800
+is a crazy one, you know?
+
+00:26:25.800 --> 00:26:28.980
+They don't want to go out and feed the poor.
+
+00:26:29.240 --> 00:26:31.820
+They don't want to go out and help the homeless.
+
+00:26:32.100 --> 00:26:33.420
+They don't want to do the stuff
+
+00:26:33.420 --> 00:26:34.720
+that Jesus told them to do.
+
+00:26:34.980 --> 00:26:36.500
+They want to obsess over nonsense
+
+00:26:36.500 --> 00:26:38.160
+and then have church divides
+
+00:26:38.820 --> 00:26:41.760
+over whether or not a woman can speak in public
+
+00:26:42.260 --> 00:26:44.300
+or whether or not you need to be dipped
+
+00:26:44.300 --> 00:26:46.800
+going forward or backwards when you get baptism
+
+00:26:46.800 --> 00:26:49.300
+or whether or not you can be sprinkled rather than dipped.
+
+00:26:49.600 --> 00:26:51.140
+They don't want to do any real stuff.
+
+00:26:51.720 --> 00:26:52.680
+Doug Brown says,
+
+00:26:52.760 --> 00:26:56.200
+Doug's namesake and prophet bids you all hello.
+
+00:26:56.280 --> 00:26:57.760
+Well, thank you so much, Doug.
+
+00:26:57.900 --> 00:26:59.040
+I appreciate that.
+
+00:26:59.080 --> 00:27:02.840
+Hail Doug and Doug Brown, both Dougs.
+
+00:27:02.880 --> 00:27:04.960
+And Booget says, in Matthew 26, 20,
+
+00:27:04.960 --> 00:27:06.720
+I'm sorry, Matthew 26, 6,
+
+00:27:07.140 --> 00:27:09.840
+Jesus really saying, F the poor.
+
+00:27:10.260 --> 00:27:12.500
+That perfume and its dollar value
+
+00:27:12.500 --> 00:27:13.840
+is better spent on me.
+
+00:27:13.880 --> 00:27:14.760
+Kind of shitty of him.
+
+00:27:15.100 --> 00:27:17.080
+So this is the funny thing, Matt,
+
+00:27:17.260 --> 00:27:18.080
+not Matt, Booget.
+
+00:27:18.080 --> 00:27:18.900
+I agree with you.
+
+00:27:18.900 --> 00:27:20.740
+Your interpretation of Matthew is correct.
+
+00:27:21.960 --> 00:27:24.060
+So Jesus is essentially saying
+
+00:27:24.060 --> 00:27:28.400
+that paying him homage is more important
+
+00:27:28.400 --> 00:27:30.560
+than the people that are literally
+
+00:27:30.560 --> 00:27:32.280
+got children starving to death.
+
+00:27:32.680 --> 00:27:34.560
+Just imagine that for a second.
+
+00:27:35.180 --> 00:27:37.820
+Jesus could have sold the perfume,
+
+00:27:38.040 --> 00:27:39.600
+could have had somebody sold the perfume
+
+00:27:40.060 --> 00:27:42.440
+and been like, here's some help.
+
+00:27:42.640 --> 00:27:43.680
+Now, here's the crazy thing.
+
+00:27:43.740 --> 00:27:45.720
+Remember, Jesus did magic, right?
+
+00:27:45.720 --> 00:27:47.960
+People always forget this, but never forget this.
+
+00:27:48.480 --> 00:27:51.960
+Jesus did magic, which means when Jesus
+
+00:27:51.960 --> 00:27:55.420
+was alive on earth, at least in Judea,
+
+00:27:55.880 --> 00:27:57.840
+nobody, nobody had to be poor.
+
+00:27:58.380 --> 00:27:59.600
+Nobody had to be homeless.
+
+00:28:00.100 --> 00:28:01.180
+Nobody had to be starving.
+
+00:28:01.560 --> 00:28:03.740
+He could just did magic and poof,
+
+00:28:03.940 --> 00:28:04.960
+all you have food now.
+
+00:28:05.320 --> 00:28:06.480
+He didn't do any of that.
+
+00:28:06.720 --> 00:28:08.620
+Imagine if you had magical powers,
+
+00:28:09.100 --> 00:28:10.580
+all the problems you would fix.
+
+00:28:11.180 --> 00:28:14.260
+The fact that the Bible, Jesus had all these powers
+
+00:28:14.260 --> 00:28:17.840
+and he didn't fix shit, that tells you it's fiction.
+
+00:28:17.960 --> 00:28:19.060
+It's not a real story.
+
+00:28:19.460 --> 00:28:20.760
+It's a fantasy, friends.
+
+00:28:21.800 --> 00:28:24.300
+And Marcus, thank you for the additional question, says,
+
+00:28:24.920 --> 00:28:27.580
+why theologically does Jesus tell Jews
+
+00:28:27.580 --> 00:28:28.800
+during the Sermon on the Mount
+
+00:28:28.800 --> 00:28:31.840
+after healing the leper to offer animal sacrifices
+
+00:28:31.840 --> 00:28:33.700
+when he was the lamb of God
+
+00:28:33.700 --> 00:28:35.620
+and was already forgiving sins while alive?
+
+00:28:35.740 --> 00:28:37.100
+Such a good point.
+
+00:28:37.480 --> 00:28:40.140
+And Rabbi Tovia Singer brings this up as well,
+
+00:28:40.420 --> 00:28:43.360
+which is when you read the book of Matthew,
+
+00:28:44.100 --> 00:28:46.500
+the biggest Judaizer in the book of Matthew
+
+00:28:46.500 --> 00:28:47.780
+is Jesus himself.
+
+00:28:48.400 --> 00:28:50.960
+Like there's a big deal made in theology
+
+00:28:50.960 --> 00:28:53.540
+about Paul combating Judaizers.
+
+00:28:54.020 --> 00:28:56.080
+Like Paul is out there trying to battle
+
+00:28:56.080 --> 00:28:57.840
+against the Judaizers.
+
+00:28:58.340 --> 00:29:01.160
+But reality is his biggest opponent was Jesus.
+
+00:29:01.740 --> 00:29:04.840
+Nobody was more Judaizing than Jesus himself.
+
+00:29:04.960 --> 00:29:08.460
+The dude did want you to follow the law.
+
+00:29:08.660 --> 00:29:09.500
+He told you to.
+
+00:29:09.500 --> 00:29:11.040
+He told you to follow the law
+
+00:29:11.040 --> 00:29:13.100
+in Matthew chapter five, 17 through 19.
+
+00:29:13.540 --> 00:29:14.760
+And he does this.
+
+00:29:15.180 --> 00:29:18.100
+When the rich young ruler comes to him and says,
+
+00:29:18.160 --> 00:29:19.980
+what must I do to inherit eternal life?
+
+00:29:20.280 --> 00:29:22.620
+He says to follow the commandments.
+
+00:29:23.360 --> 00:29:24.940
+When he heals the people,
+
+00:29:25.020 --> 00:29:26.680
+he tells them to go to the temple
+
+00:29:26.680 --> 00:29:28.520
+and be ritually cleansed,
+
+00:29:28.520 --> 00:29:30.340
+which you have to do according to the Old Testament.
+
+00:29:30.400 --> 00:29:32.800
+If you had leprosy or some sort of skin rash
+
+00:29:32.800 --> 00:29:34.940
+and it came and it was cleansed,
+
+00:29:35.300 --> 00:29:37.020
+or it disappeared, it went away.
+
+00:29:37.080 --> 00:29:38.540
+You still had to go get cleansed
+
+00:29:38.540 --> 00:29:40.060
+and then have a waiting period
+
+00:29:40.920 --> 00:29:43.040
+before you could be welcomed back into the community.
+
+00:29:43.480 --> 00:29:45.900
+So yeah, Jesus was a Judaizer.
+
+00:29:46.160 --> 00:29:48.000
+That's why he said to do this.
+
+00:29:48.240 --> 00:29:51.420
+The reality is Paul and Jesus do not agree.
+
+00:29:51.760 --> 00:29:54.760
+And Paul continually talking out both sides of his mouth
+
+00:29:54.760 --> 00:29:58.260
+as we just actually talked about in Acts chapter 21
+
+00:29:58.260 --> 00:29:59.860
+that somebody brought up, which is that Paul,
+
+00:29:59.980 --> 00:30:02.160
+in Acts chapter 21, verse 26,
+
+00:30:02.160 --> 00:30:04.720
+went to the temple and participated
+
+00:30:05.320 --> 00:30:07.120
+in the purification rituals.
+
+00:30:07.940 --> 00:30:11.040
+So the New Testament does not have a cohesive,
+
+00:30:11.560 --> 00:30:15.660
+absolutely does not have a cohesive viewpoint on the law.
+
+00:30:16.440 --> 00:30:17.040
+And Dustin says,
+
+00:30:17.200 --> 00:30:18.680
+one thing I've noticed watching your streams
+
+00:30:18.680 --> 00:30:20.340
+is that when backed into a corner,
+
+00:30:20.580 --> 00:30:22.800
+every theist argument eventually boils down
+
+00:30:22.800 --> 00:30:25.760
+to a presupposition, whether they realize it or not.
+
+00:30:25.800 --> 00:30:26.500
+Have you noticed this?
+
+00:30:26.620 --> 00:30:29.300
+It is, Dustin, it is.
+
+00:30:29.300 --> 00:30:34.040
+Every single, every single Christian argument
+
+00:30:34.040 --> 00:30:36.460
+when you've knocked down their claims
+
+00:30:36.460 --> 00:30:40.560
+about the flood nonsense, about prophecy nonsense,
+
+00:30:41.000 --> 00:30:44.200
+they always end up in a position where it's,
+
+00:30:44.320 --> 00:30:46.720
+well, I just presuppose it by faith.
+
+00:30:48.060 --> 00:30:51.220
+Well, you can't explain X therefore God.
+
+00:30:51.560 --> 00:30:53.640
+They always go back to a God of the gaps.
+
+00:30:53.720 --> 00:30:55.260
+And this is how you know
+
+00:30:55.260 --> 00:30:57.200
+that they simply don't have any answers
+
+00:30:57.200 --> 00:30:59.660
+because they have to fall back on God of the gaps.
+
+00:30:59.660 --> 00:31:01.280
+They have to fall back on it true
+
+00:31:01.280 --> 00:31:03.080
+because they presuppose it to be true.
+
+00:31:03.500 --> 00:31:06.220
+And these aren't good ways to know truth.
+
+00:31:06.280 --> 00:31:09.020
+You can't know truth in this particular fashion.
+
+00:31:11.240 --> 00:31:15.680
+TV atheist says, I keep telling you OBS is pro level.
+
+00:31:15.760 --> 00:31:16.980
+OBS is good.
+
+00:31:17.760 --> 00:31:20.100
+In fact, when I first started doing streams,
+
+00:31:20.100 --> 00:31:21.860
+I was only using OBS.
+
+00:31:22.600 --> 00:31:24.980
+The reason why I switched to Streamlabs
+
+00:31:24.980 --> 00:31:26.820
+and I paid the money for Streamlabs
+
+00:31:26.820 --> 00:31:30.080
+is to lower the actual amount of bandwidth
+
+00:31:30.080 --> 00:31:31.940
+that I personally needed to use.
+
+00:31:32.280 --> 00:31:35.220
+So I could stream multiple streams to YouTube.
+
+00:31:35.340 --> 00:31:36.260
+I could stream to Facebook.
+
+00:31:36.360 --> 00:31:38.600
+I could stream to Twitch, so on and so forth.
+
+00:31:38.600 --> 00:31:42.160
+And then I could run TikTok Studio alongside of it
+
+00:31:42.160 --> 00:31:45.160
+and not have lagging on TikTok Studio.
+
+00:31:45.260 --> 00:31:47.220
+So that's why I switched to Streamlabs.
+
+00:31:47.640 --> 00:31:50.520
+But now that I'm running fiber at home,
+
+00:31:51.340 --> 00:31:54.020
+shit, maybe I'll just use OBS.
+
+00:31:54.020 --> 00:31:55.900
+It seems like I've got plenty of bandwidth
+
+00:31:55.900 --> 00:31:59.460
+on my fiber network to open as many streams as I need.
+
+00:31:59.620 --> 00:32:01.640
+Oh, of course I could just not stream to Twitch.
+
+00:32:01.780 --> 00:32:02.960
+Nobody gives a shit about Twitch.
+
+00:32:03.460 --> 00:32:05.120
+No one's watching these debates on Twitch.
+
+00:32:05.500 --> 00:32:07.780
+So maybe it is time to switch to OBS.
+
+00:32:08.220 --> 00:32:10.560
+OBS does give me a lot more control
+
+00:32:10.560 --> 00:32:12.580
+over some of the features as well.
+
+00:32:12.920 --> 00:32:13.880
+So I do like that.
+
+00:32:13.900 --> 00:32:16.140
+With Streamlabs, they limit some of the controls
+
+00:32:16.140 --> 00:32:16.960
+you can have.
+
+00:32:18.120 --> 00:32:20.360
+And Nomad, thank you for the question, says,
+
+00:32:20.580 --> 00:32:23.220
+can you speak a bit on the trial of bitter waters,
+
+00:32:23.400 --> 00:32:24.320
+numbers 511?
+
+00:32:24.700 --> 00:32:26.620
+I brought this up in a discussion on abortion
+
+00:32:26.620 --> 00:32:28.420
+with a Christian once, but I need more context.
+
+00:32:28.520 --> 00:32:29.480
+So this is really good.
+
+00:32:30.200 --> 00:32:31.780
+Actually, my friend Chet and I
+
+00:32:31.780 --> 00:32:35.240
+are gonna be doing a session kind of on this topic
+
+00:32:35.240 --> 00:32:36.760
+here in a bit.
+
+00:32:38.780 --> 00:32:41.860
+So the trial of bitter waters works like this.
+
+00:32:42.140 --> 00:32:45.440
+If the spirit of jealousy comes upon a man
+
+00:32:45.440 --> 00:32:47.660
+and he believes that his wife cheated on him,
+
+00:32:47.980 --> 00:32:49.380
+now this is probably happening
+
+00:32:49.380 --> 00:32:51.160
+because she's fucking pregnant
+
+00:32:51.160 --> 00:32:53.240
+and he's like, I don't think I got her pregnant.
+
+00:32:53.440 --> 00:32:54.680
+How'd she get pregnant, right?
+
+00:32:55.060 --> 00:32:57.760
+It's hard to know when the spirit of jealousy
+
+00:32:57.760 --> 00:32:59.260
+could fall on somebody, right?
+
+00:32:59.660 --> 00:33:02.220
+That being said, if that happens,
+
+00:33:02.300 --> 00:33:03.940
+what you need to do is take her to the priest.
+
+00:33:04.120 --> 00:33:06.540
+He'll make a potion of,
+
+00:33:06.880 --> 00:33:09.400
+he'll write a curse on a scroll, scrape it off.
+
+00:33:10.000 --> 00:33:11.660
+The scrapings go into the potion.
+
+00:33:11.800 --> 00:33:13.740
+Some dirt from the floor go into the potion.
+
+00:33:14.160 --> 00:33:17.360
+She drinks this cursed potion.
+
+00:33:17.800 --> 00:33:19.280
+It's basically poison.
+
+00:33:19.760 --> 00:33:21.580
+And if it makes her really sick
+
+00:33:21.580 --> 00:33:24.120
+and causes her womb to discharge,
+
+00:33:24.640 --> 00:33:26.220
+then it's presumed that she's guilty
+
+00:33:26.220 --> 00:33:28.880
+and she won't be able to bear the children.
+
+00:33:29.260 --> 00:33:30.860
+If in fact she's innocent,
+
+00:33:31.020 --> 00:33:32.280
+the potion won't harm her
+
+00:33:32.280 --> 00:33:34.560
+and she'll be able to bear children or conceive.
+
+00:33:35.700 --> 00:33:40.200
+So the reality is if he was accusing her,
+
+00:33:40.720 --> 00:33:42.240
+my goodness, I gotta get more sleep.
+
+00:33:42.940 --> 00:33:45.740
+If he was accusing her because she was pregnant
+
+00:33:45.740 --> 00:33:47.680
+and he doesn't think it's his,
+
+00:33:48.280 --> 00:33:51.220
+then she would have a miscarriage or an abortion.
+
+00:33:51.500 --> 00:33:54.120
+That's why the newest iteration of the NIV
+
+00:33:54.120 --> 00:33:55.220
+just says abortion.
+
+00:33:55.820 --> 00:33:57.400
+The pregnancy is gonna be terminated.
+
+00:33:58.160 --> 00:34:01.060
+So numbers five is indeed an abortion.
+
+00:34:01.060 --> 00:34:04.320
+Now, it's fun because it's very similar
+
+00:34:04.320 --> 00:34:07.020
+to what's known as the river ordeal.
+
+00:34:07.720 --> 00:34:11.820
+In ancient Sumer and Babylon and Assyria,
+
+00:34:11.960 --> 00:34:14.880
+they believed that there were like river deities
+
+00:34:14.880 --> 00:34:17.500
+that caused the rivers to rage and lower
+
+00:34:17.500 --> 00:34:18.660
+and rage and lower.
+
+00:34:19.040 --> 00:34:21.660
+And so one of the ways you could test
+
+00:34:22.260 --> 00:34:24.200
+the unfaithfulness of a spouse
+
+00:34:24.200 --> 00:34:25.780
+is to throw them in the river.
+
+00:34:26.060 --> 00:34:28.400
+Like if you come and you got the spirit of jealousy,
+
+00:34:28.400 --> 00:34:31.120
+rather than making them take the magic poison,
+
+00:34:31.460 --> 00:34:32.880
+you could just take them to the judge
+
+00:34:32.880 --> 00:34:34.140
+and throw their ass in a river.
+
+00:34:34.480 --> 00:34:36.360
+And depending on what happens in the river,
+
+00:34:36.620 --> 00:34:38.860
+that determines whether or not they were guilty
+
+00:34:38.860 --> 00:34:42.120
+because the river god will determine
+
+00:34:42.120 --> 00:34:43.760
+whether or not they were innocent or guilty.
+
+00:34:44.400 --> 00:34:45.720
+So it's a really fun thing.
+
+00:34:45.740 --> 00:34:46.620
+We're gonna talk about that soon.
+
+00:34:46.860 --> 00:34:49.080
+I see more questions coming in, friends.
+
+00:34:49.100 --> 00:34:50.420
+I'm gonna answer all the questions
+
+00:34:50.420 --> 00:34:51.340
+that we have on the board
+
+00:34:51.340 --> 00:34:53.780
+and then I've got to end the stream.
+
+00:34:53.920 --> 00:34:55.560
+I'm sorry we wasted so much time
+
+00:34:55.560 --> 00:34:57.460
+on getting the stream transferred over
+
+00:34:57.460 --> 00:34:58.660
+to a working platform.
+
+00:34:59.140 --> 00:35:00.600
+It just was one of those days.
+
+00:35:00.960 --> 00:35:02.700
+But I've got hard plans today.
+
+00:35:03.260 --> 00:35:04.440
+I'm going to the beach with my son.
+
+00:35:04.480 --> 00:35:05.360
+We're gonna have a lot of fun.
+
+00:35:05.660 --> 00:35:06.700
+So I can't stay late.
+
+00:35:06.740 --> 00:35:07.760
+I'm gonna answer these questions.
+
+00:35:08.060 --> 00:35:08.800
+I gotta scoot.
+
+00:35:10.080 --> 00:35:11.460
+Medioger, still love the name.
+
+00:35:11.620 --> 00:35:12.840
+Says, as a debate prompt,
+
+00:35:12.840 --> 00:35:14.640
+have you considered Abrahamic religions
+
+00:35:14.640 --> 00:35:17.940
+are regurgitated Babylonian or whatever mythology
+
+00:35:17.940 --> 00:35:19.760
+it seems like a great topic?
+
+00:35:19.800 --> 00:35:20.520
+I agree.
+
+00:35:20.540 --> 00:35:21.500
+It is a great topic.
+
+00:35:21.600 --> 00:35:24.100
+And the reason why I don't have a topic like that
+
+00:35:24.100 --> 00:35:27.140
+is because it really narrows down the conversation
+
+00:35:27.140 --> 00:35:29.740
+and my streams are typically like five or six hours,
+
+00:35:29.740 --> 00:35:32.200
+which means for five or six hours,
+
+00:35:32.640 --> 00:35:34.360
+the audience hears the same talking points
+
+00:35:34.360 --> 00:35:35.860
+over and over and over again
+
+00:35:35.860 --> 00:35:37.580
+because it's such a narrow topic.
+
+00:35:38.640 --> 00:35:41.540
+Now we could do it in like a multi-topic format
+
+00:35:41.540 --> 00:35:42.860
+where we do a live stream
+
+00:35:42.860 --> 00:35:44.440
+and like here are the multiple topics
+
+00:35:44.440 --> 00:35:45.520
+we can talk about today.
+
+00:35:45.620 --> 00:35:48.080
+And that would make it a little easier
+
+00:35:48.080 --> 00:35:49.500
+or I can preserve it.
+
+00:35:49.580 --> 00:35:51.260
+I can make a topic like this
+
+00:35:51.260 --> 00:35:53.020
+for when I know I'm only gonna have
+
+00:35:53.020 --> 00:35:54.200
+two or three hours to debate.
+
+00:35:54.420 --> 00:35:55.860
+Then we can definitely do that.
+
+00:35:55.880 --> 00:35:57.340
+But I do like the idea.
+
+00:35:57.820 --> 00:36:00.200
+It certainly is a good idea to do a topic
+
+00:36:00.200 --> 00:36:01.280
+where like, you know,
+
+00:36:01.280 --> 00:36:05.080
+the Old Testament is stolen from other literature.
+
+00:36:05.420 --> 00:36:06.440
+That'd be a lot of fun.
+
+00:36:06.680 --> 00:36:09.180
+Or you could say the Old Testament is stolen mythology.
+
+00:36:09.700 --> 00:36:10.880
+I would have a lot of fun with that.
+
+00:36:11.080 --> 00:36:13.900
+I did do a live stream like over a year ago
+
+00:36:13.900 --> 00:36:16.200
+where I did that with this hell and Satan
+
+00:36:16.200 --> 00:36:20.420
+where I did, hell and Satan are stolen mythologies.
+
+00:36:20.580 --> 00:36:21.920
+They're not native to the Bible.
+
+00:36:22.020 --> 00:36:23.520
+And that was a lot of fun.
+
+00:36:24.780 --> 00:36:27.360
+Nicholas says, do the Sanhedrin record Jesus
+
+00:36:27.360 --> 00:36:28.300
+and can I read it?
+
+00:36:28.300 --> 00:36:33.240
+Yes, Sanhedrin 43A records what we would call
+
+00:36:33.240 --> 00:36:36.840
+the trial and the execution of Jesus de Nazarene.
+
+00:36:37.520 --> 00:36:39.520
+It says he was stoned and hugged up on a stick.
+
+00:36:39.920 --> 00:36:42.080
+It even talks a little bit about how
+
+00:36:42.080 --> 00:36:43.580
+some of his disciples were killed.
+
+00:36:43.880 --> 00:36:45.840
+And it even talks about why he was killed
+
+00:36:45.840 --> 00:36:48.040
+for sorcery and leading the people astray.
+
+00:36:48.420 --> 00:36:50.320
+And his mother even comes up.
+
+00:36:50.600 --> 00:36:52.940
+So I would read Sanhedrin 43A.
+
+00:36:54.440 --> 00:36:57.120
+And Dr. Pisa said, do people ever address the point,
+
+00:36:57.480 --> 00:37:00.600
+that the point of the flood was to cleanse the land of evil
+
+00:37:00.600 --> 00:37:02.440
+but it didn't work.
+
+00:37:03.500 --> 00:37:05.640
+Any other incompetent God goofs.
+
+00:37:05.640 --> 00:37:08.940
+So I did this when I first started streaming to TikTok
+
+00:37:08.940 --> 00:37:11.000
+before I was on YouTube, I used to run a topic
+
+00:37:11.000 --> 00:37:15.580
+that was the flood of Noah was a failure.
+
+00:37:16.060 --> 00:37:18.200
+And I listed all the reasons why the flood of Noah
+
+00:37:18.200 --> 00:37:19.660
+was an absolute failure.
+
+00:37:20.200 --> 00:37:23.140
+The reality is most Christians don't realize it.
+
+00:37:24.040 --> 00:37:26.760
+If the goal of the flood was to rid the planet
+
+00:37:26.760 --> 00:37:31.000
+of the evil humans and of the Nephilim, neither came true.
+
+00:37:31.060 --> 00:37:33.340
+It says right after the flood that the intentions
+
+00:37:33.340 --> 00:37:36.400
+of the heart of humans are evil even from youth.
+
+00:37:36.720 --> 00:37:39.480
+And then we learned that there's more Nephilim left over.
+
+00:37:39.660 --> 00:37:42.580
+Numbers chapter 13, Deuteronomy chapter two,
+
+00:37:42.580 --> 00:37:43.640
+there's more Nephilim.
+
+00:37:43.720 --> 00:37:45.120
+They're still fucking around,
+
+00:37:45.440 --> 00:37:48.600
+which means the flood didn't do a damn thing.
+
+00:37:50.120 --> 00:37:51.800
+Tarana says with Bible degrees,
+
+00:37:51.880 --> 00:37:54.300
+what's the job career prospect?
+
+00:37:54.800 --> 00:37:55.800
+Not much.
+
+00:37:56.520 --> 00:37:57.720
+Either you're a pastor
+
+00:37:58.320 --> 00:38:01.400
+or you're an independent media content creator,
+
+00:38:01.960 --> 00:38:05.840
+or you get a high level degree like a PhD and you teach.
+
+00:38:06.220 --> 00:38:07.820
+That's about it, you can't do much else.
+
+00:38:08.580 --> 00:38:10.700
+That's like saying, I got a law degree,
+
+00:38:10.700 --> 00:38:12.740
+but I don't wanna practice law, what can I do?
+
+00:38:13.020 --> 00:38:15.220
+Not much, not much.
+
+00:38:16.020 --> 00:38:17.660
+It's a very specific degree,
+
+00:38:17.660 --> 00:38:19.180
+it's not universally usable.
+
+00:38:19.940 --> 00:38:22.320
+A dentist says, is it fair to ask Christians
+
+00:38:22.320 --> 00:38:23.640
+if they follow Jesus or Paul?
+
+00:38:23.640 --> 00:38:25.440
+It seems like two very different religions.
+
+00:38:25.620 --> 00:38:27.540
+It is, Dennis, it is.
+
+00:38:27.760 --> 00:38:30.600
+And I've had a lot of people request to do a live stream
+
+00:38:30.600 --> 00:38:32.220
+where I just say, you're not a Christian,
+
+00:38:32.340 --> 00:38:33.080
+you're a Paulian.
+
+00:38:33.400 --> 00:38:35.280
+And while it's a very narrow topic,
+
+00:38:35.360 --> 00:38:37.740
+which is why I haven't done it, it is true.
+
+00:38:39.000 --> 00:38:41.140
+When we talk about Bible contradictions,
+
+00:38:41.280 --> 00:38:43.740
+I talk a lot about how Paul and Jesus
+
+00:38:43.740 --> 00:38:44.680
+contradicted each other,
+
+00:38:44.700 --> 00:38:45.700
+because I think it's important.
+
+00:38:45.700 --> 00:38:48.080
+If you are a modern day Christian,
+
+00:38:48.740 --> 00:38:51.000
+you are following Paul, you're not following Jesus.
+
+00:38:51.320 --> 00:38:53.020
+That's just a cold hard truth.
+
+00:38:53.280 --> 00:38:55.180
+I've got some of the Jesus Paul contradictions
+
+00:38:55.180 --> 00:38:56.360
+on the cheat sheet.
+
+00:38:56.960 --> 00:39:00.080
+Don says, an idea inspired either by Doug or Sparky,
+
+00:39:00.160 --> 00:39:01.000
+I can't choose.
+
+00:39:02.520 --> 00:39:04.860
+Does evolution present a problem for Christianity?
+
+00:39:05.500 --> 00:39:11.200
+Required immortal soul in the unbroken line of life
+
+00:39:11.200 --> 00:39:12.780
+whose mother didn't have a soul.
+
+00:39:12.900 --> 00:39:14.340
+So I agree with you.
+
+00:39:14.340 --> 00:39:15.540
+In fact, if you read,
+
+00:39:16.600 --> 00:39:20.120
+there's a study Bible called the Didache Study Bible,
+
+00:39:20.760 --> 00:39:21.900
+if I remember correctly.
+
+00:39:23.200 --> 00:39:25.060
+I've got it, it's a Catholic study Bible,
+
+00:39:25.060 --> 00:39:26.940
+and they've got an article written about this,
+
+00:39:27.260 --> 00:39:31.740
+how Catholicism is always in agreement with science,
+
+00:39:31.940 --> 00:39:33.520
+even if it's hard to understand.
+
+00:39:33.900 --> 00:39:36.520
+And I had a professor who was part of the
+
+00:39:37.700 --> 00:39:40.640
+BioLogos Foundation who believed in this kind of thing
+
+00:39:41.500 --> 00:39:44.360
+where evolution is true, but so is the Bible.
+
+00:39:44.560 --> 00:39:47.620
+And this was the question I brought up to him,
+
+00:39:47.860 --> 00:39:48.920
+and he didn't like it.
+
+00:39:48.920 --> 00:39:50.740
+He's a great guy, he just didn't like my question.
+
+00:39:51.300 --> 00:39:53.100
+But my question was exactly that.
+
+00:39:53.340 --> 00:39:54.980
+If in fact, evolution is true,
+
+00:39:55.340 --> 00:39:57.400
+where did God draw the arbitrary line
+
+00:39:57.400 --> 00:40:00.880
+of now we have humans that have like rights
+
+00:40:00.880 --> 00:40:04.200
+and the image of God and the immortal soul?
+
+00:40:04.420 --> 00:40:07.520
+Like where did that point start?
+
+00:40:07.740 --> 00:40:09.460
+You have to draw a line somewhere.
+
+00:40:09.460 --> 00:40:11.580
+It's a silly thing to believe in,
+
+00:40:11.820 --> 00:40:14.980
+but if you're coping, this is a good advanced level of cope.
+
+00:40:15.680 --> 00:40:18.340
+I'm with you, I don't think there's a good answer for it.
+
+00:40:18.360 --> 00:40:19.600
+That's why it's a good question.
+
+00:40:20.720 --> 00:40:21.840
+Punctuated says, what do you think
+
+00:40:21.840 --> 00:40:23.300
+of the Midianite hypothesis?
+
+00:40:23.640 --> 00:40:25.720
+Punctuated, I believe wholeheartedly
+
+00:40:25.720 --> 00:40:27.140
+in the Midianite hypothesis.
+
+00:40:27.520 --> 00:40:30.060
+I've got a bunch of articles and documents
+
+00:40:30.060 --> 00:40:31.980
+and archeology that points towards this.
+
+00:40:31.980 --> 00:40:34.100
+If you DM me, I'll send you my articles.
+
+00:40:34.140 --> 00:40:35.440
+You can read all about it.
+
+00:40:35.600 --> 00:40:38.880
+I think the Midianite hypothesis is a great hypothesis
+
+00:40:38.880 --> 00:40:40.660
+to explain the rise of Yahwism
+
+00:40:41.180 --> 00:40:43.420
+and to explain the rise of Yahwism
+
+00:40:43.420 --> 00:40:45.920
+specifically within Judea
+
+00:40:45.920 --> 00:40:48.680
+and then eventually into all of Israel.
+
+00:40:49.940 --> 00:40:52.200
+Carnage, with another question, I love these questions,
+
+00:40:52.260 --> 00:40:53.300
+thank you so much, Carnage,
+
+00:40:53.480 --> 00:40:56.840
+says, smash, marry or unalive, music edition,
+
+00:40:57.180 --> 00:40:59.600
+Prince of Egypt, Jesus Christ Superstar,
+
+00:40:59.600 --> 00:41:00.560
+or the Book of Mormon?
+
+00:41:00.700 --> 00:41:02.540
+Listen, I'm gonna hurt your feelings.
+
+00:41:02.680 --> 00:41:04.580
+I have not seen Jesus Christ Superstar,
+
+00:41:04.700 --> 00:41:05.700
+which I don't know.
+
+00:41:06.080 --> 00:41:07.680
+I haven't even seen the Book of Mormon,
+
+00:41:07.760 --> 00:41:09.420
+but if I'm gonna marry one of them,
+
+00:41:09.420 --> 00:41:11.020
+I know the premise of the Book of Mormon.
+
+00:41:11.080 --> 00:41:12.560
+I'm gonna marry the Book of Mormon.
+
+00:41:12.840 --> 00:41:16.040
+I'm going to smash Jesus Christ Superstar
+
+00:41:16.040 --> 00:41:17.820
+because I think it's probably a little bit tongue in cheek
+
+00:41:17.820 --> 00:41:20.020
+and I'm going to unalive the Prince of Egypt
+
+00:41:20.020 --> 00:41:21.280
+only because it's boring
+
+00:41:21.280 --> 00:41:24.840
+and we've already heard the Joseph story so many times.
+
+00:41:25.260 --> 00:41:26.940
+But good question, that's a tough one, actually.
+
+00:41:26.940 --> 00:41:27.720
+I appreciate that.
+
+00:41:27.920 --> 00:41:29.580
+All right, guys, I've got a couple more super chats.
+
+00:41:29.880 --> 00:41:33.440
+I like five, one, two, three, four, five, six,
+
+00:41:33.500 --> 00:41:36.780
+I got eight more and then I gotta get off stream.
+
+00:41:37.320 --> 00:41:39.300
+I apologize, I can't stream later today,
+
+00:41:39.300 --> 00:41:41.240
+but I'll be doing a long stream tomorrow.
+
+00:41:41.340 --> 00:41:42.360
+Tomorrow's gonna be a long stream.
+
+00:41:42.360 --> 00:41:43.720
+It should be a lot of fun.
+
+00:41:44.200 --> 00:41:46.480
+Kyle, and I'm streaming Saturday and Sunday,
+
+00:41:47.000 --> 00:41:48.540
+so I'll be streaming over the weekend too,
+
+00:41:48.960 --> 00:41:50.120
+says, when you were a Christian,
+
+00:41:50.220 --> 00:41:52.900
+did you believe or trust all the Bible narratives
+
+00:41:52.900 --> 00:41:54.520
+such as the flood arc?
+
+00:41:54.760 --> 00:41:56.620
+If so, what about, or what,
+
+00:41:57.680 --> 00:41:59.400
+if so, what was that like?
+
+00:41:59.800 --> 00:42:02.160
+And do you think Christians secretly doubt some parables
+
+00:42:02.160 --> 00:42:04.000
+but still argue they're true?
+
+00:42:04.140 --> 00:42:07.980
+Okay, so when I was a brand new evangelical Christian,
+
+00:42:08.040 --> 00:42:10.340
+like I grew up in Catholicism
+
+00:42:10.340 --> 00:42:12.220
+and they taught these stories
+
+00:42:12.220 --> 00:42:14.820
+but they didn't really teach them at my Catholic school
+
+00:42:14.820 --> 00:42:16.160
+like they were true history.
+
+00:42:16.720 --> 00:42:18.860
+They were akin to mythology.
+
+00:42:20.340 --> 00:42:22.760
+When I became a born again evangelical Christian,
+
+00:42:22.800 --> 00:42:24.460
+I was like, no, it's gotta be all true.
+
+00:42:24.660 --> 00:42:25.580
+It has to be all true.
+
+00:42:25.620 --> 00:42:27.000
+So I did have a period early on
+
+00:42:27.000 --> 00:42:28.360
+where I was like, no, it's true.
+
+00:42:28.840 --> 00:42:33.300
+But I very quickly started studying the apologetics
+
+00:42:33.300 --> 00:42:36.420
+on these topics and then studying the counter-apologetics
+
+00:42:36.420 --> 00:42:39.480
+on these topics and quickly as an evangelical Christian,
+
+00:42:39.480 --> 00:42:42.060
+I realized, oh no, they can't be literally true.
+
+00:42:42.120 --> 00:42:45.020
+The science is so against it.
+
+00:42:45.340 --> 00:42:48.460
+And so I quickly moved into back,
+
+00:42:48.940 --> 00:42:51.920
+I reverted back to, okay, these are like theological
+
+00:42:51.920 --> 00:42:54.840
+stories, they didn't literally happen
+
+00:42:54.840 --> 00:42:57.060
+or some of them literally happened
+
+00:42:57.060 --> 00:42:59.860
+but they were exaggerated, right?
+
+00:42:59.860 --> 00:43:01.100
+And I did that for a little bit.
+
+00:43:01.240 --> 00:43:02.100
+I did that for a little bit.
+
+00:43:02.460 --> 00:43:03.600
+The reality is though,
+
+00:43:03.920 --> 00:43:05.080
+once you study the New Testament
+
+00:43:05.080 --> 00:43:06.460
+and realize that everybody in the New Testament
+
+00:43:06.460 --> 00:43:08.740
+thought they were literal stories that literally happened,
+
+00:43:09.620 --> 00:43:10.620
+yeah, you got big problems.
+
+00:43:11.180 --> 00:43:12.500
+They can't hold water.
+
+00:43:13.160 --> 00:43:14.780
+Emma says, can you go more in depth
+
+00:43:14.780 --> 00:43:20.220
+on the differences merging of Judah and Israel?
+
+00:43:21.040 --> 00:43:23.560
+Is this merger where Yahweh become one true God?
+
+00:43:23.920 --> 00:43:24.820
+Kind of, yes.
+
+00:43:25.300 --> 00:43:30.340
+So I'm gonna take you quickly to Exodus six.
+
+00:43:32.550 --> 00:43:33.890
+So in Exodus six,
+
+00:43:33.890 --> 00:43:36.790
+we have a statement that's really interesting
+
+00:43:37.650 --> 00:43:40.330
+and Mark Smith has written about this,
+
+00:43:40.390 --> 00:43:43.530
+about how Israel went from a polytheistic worldview
+
+00:43:43.530 --> 00:43:46.070
+eventually into a monotheistic worldview
+
+00:43:46.630 --> 00:43:49.290
+but in Exodus six, we have a really strange thing
+
+00:43:49.290 --> 00:43:51.710
+where Moses is given the name of the Lord
+
+00:43:52.130 --> 00:43:54.070
+and it says, I appeared to Abraham,
+
+00:43:54.150 --> 00:43:55.950
+Isaac and Jacob as God Almighty
+
+00:43:55.950 --> 00:43:58.210
+but by my name, Yahweh,
+
+00:43:58.710 --> 00:44:00.370
+I did not make myself known to them.
+
+00:44:00.570 --> 00:44:02.890
+Well, this is kind of a weird thing, right?
+
+00:44:03.230 --> 00:44:05.370
+When I read this, what I'm reading here
+
+00:44:05.370 --> 00:44:07.570
+is that Yahweh is suggesting, listen,
+
+00:44:08.050 --> 00:44:11.130
+I know your forefathers knew me as so and so
+
+00:44:11.130 --> 00:44:14.310
+but my real name is Yahweh.
+
+00:44:14.610 --> 00:44:17.170
+This is a crazy thing to say if you're a Deity.
+
+00:44:17.170 --> 00:44:22.430
+Why would you tell everyone that I'm Elohim, I'm El
+
+00:44:23.030 --> 00:44:25.750
+and then a thousand years later be like,
+
+00:44:25.970 --> 00:44:29.650
+oh, by the way, my real name, my real name is Yahweh.
+
+00:44:29.990 --> 00:44:31.550
+Why, what are we doing here?
+
+00:44:31.930 --> 00:44:33.130
+Why would we do that?
+
+00:44:33.250 --> 00:44:34.610
+That's the dumbest thing ever.
+
+00:44:34.610 --> 00:44:35.930
+It doesn't make any sense.
+
+00:44:36.590 --> 00:44:39.910
+And so to me, there's lots of Bible passages
+
+00:44:39.910 --> 00:44:43.150
+if you're reading carefully that seem like copes
+
+00:44:43.150 --> 00:44:46.030
+and there's a lot of Bible passages that seem
+
+00:44:46.030 --> 00:44:48.730
+like they were stolen from Israelite literature.
+
+00:44:49.050 --> 00:44:53.290
+For example, Psalm 74, Psalm 82.
+
+00:44:53.610 --> 00:44:55.170
+Psalm 82 classically talks
+
+00:44:55.710 --> 00:44:57.770
+about how there are multiple gods.
+
+00:44:57.830 --> 00:44:59.270
+If you go to Psalm 82,
+
+00:45:01.120 --> 00:45:03.720
+says God has taken his place in the divine council
+
+00:45:03.720 --> 00:45:06.060
+in the midst of the gods, he holds judgment.
+
+00:45:06.440 --> 00:45:08.860
+This is in alignment with Israelite theology,
+
+00:45:08.980 --> 00:45:11.020
+not Judean theology, right?
+
+00:45:11.440 --> 00:45:14.620
+So the reality is it seems to be,
+
+00:45:15.000 --> 00:45:17.960
+if you read, go ahead and read the Bale cycle.
+
+00:45:18.120 --> 00:45:20.960
+Mark Smith did a really good translation of the Bale cycle
+
+00:45:20.960 --> 00:45:25.100
+where you learn about El and his 70 sons
+
+00:45:25.100 --> 00:45:28.960
+that he had with At-Tirot known as Asherah
+
+00:45:28.960 --> 00:45:31.560
+and you learn about Bale and Anath
+
+00:45:31.560 --> 00:45:33.280
+and all of these other deities
+
+00:45:33.280 --> 00:45:35.700
+that show up in the Hebrew Bible.
+
+00:45:36.580 --> 00:45:39.140
+You, there's like 10 different deities
+
+00:45:39.140 --> 00:45:42.480
+from the Israelite pantheon, the Canaanite pantheon
+
+00:45:42.480 --> 00:45:44.380
+that show up in the Old Testament.
+
+00:45:44.460 --> 00:45:46.260
+And a lot of the words in Hebrew
+
+00:45:47.020 --> 00:45:50.280
+were stolen directly from Ugaritic tradition.
+
+00:45:50.680 --> 00:45:56.960
+The word for death is moth or moth or muth
+
+00:45:56.960 --> 00:45:59.180
+depending on how you conjugate the word.
+
+00:45:59.740 --> 00:46:05.080
+Well, the deity of death in the El pantheon,
+
+00:46:05.100 --> 00:46:08.740
+the pantheon of El, one of the children of El was moth.
+
+00:46:09.800 --> 00:46:13.840
+The sun deity, Shemesh or Shamash
+
+00:46:14.300 --> 00:46:16.520
+is the word for sun in biblical Hebrew.
+
+00:46:16.860 --> 00:46:21.000
+Like we just, they merged two cultures.
+
+00:46:21.240 --> 00:46:22.760
+The Judeans worshiped Yahweh
+
+00:46:22.760 --> 00:46:25.560
+probably through developed through the Midianite hypothesis.
+
+00:46:25.560 --> 00:46:28.820
+The Israelites worshiped El and the pantheon
+
+00:46:28.820 --> 00:46:30.200
+that was associated with El.
+
+00:46:30.620 --> 00:46:32.540
+And eventually when the Judeans got powerful,
+
+00:46:32.840 --> 00:46:34.780
+the Judeans took over Israel.
+
+00:46:34.880 --> 00:46:36.340
+They had to merge the religions.
+
+00:46:36.380 --> 00:46:37.660
+They had to merge the backgrounds.
+
+00:46:38.340 --> 00:46:40.980
+Again, I would read the writings of Mark S. Smith
+
+00:46:40.980 --> 00:46:43.520
+on this and I would also read Yahweh
+
+00:46:43.520 --> 00:46:46.040
+and the gods and goddesses of ancient Canaan
+
+00:46:46.040 --> 00:46:48.200
+by John Day, great reads.
+
+00:46:48.700 --> 00:46:50.880
+Dave says, is there an argument to be made
+
+00:46:50.880 --> 00:46:53.740
+that the apostles in part could have seen Jesus
+
+00:46:53.740 --> 00:46:55.700
+as a way to change their station in life?
+
+00:46:55.800 --> 00:46:56.900
+More respect, money.
+
+00:46:57.780 --> 00:46:59.700
+Well, that certainly is the case, Dave.
+
+00:47:00.020 --> 00:47:01.900
+A lot of people say, well, they wouldn't have lied.
+
+00:47:01.940 --> 00:47:02.860
+They had nothing to gain.
+
+00:47:03.000 --> 00:47:04.480
+We don't know that.
+
+00:47:04.760 --> 00:47:06.200
+In fact, we don't even know how they died.
+
+00:47:06.500 --> 00:47:09.020
+They could be they didn't even die as martyrs.
+
+00:47:09.400 --> 00:47:10.520
+Hundreds of years later,
+
+00:47:10.540 --> 00:47:12.100
+people made up stories about how they died.
+
+00:47:15.370 --> 00:47:17.910
+It could be that at the time of Jesus's death,
+
+00:47:17.910 --> 00:47:20.810
+they had a big following of Galileans
+
+00:47:21.970 --> 00:47:23.550
+and they had support.
+
+00:47:23.650 --> 00:47:24.850
+It's clear from the New Testament
+
+00:47:24.850 --> 00:47:27.570
+that a lot of wealthy women were supporting the movement.
+
+00:47:28.090 --> 00:47:30.270
+They probably didn't wanna give up that cash cow.
+
+00:47:31.070 --> 00:47:34.150
+They probably wanted to continue that gravy train.
+
+00:47:34.490 --> 00:47:36.690
+Hey, we're just gonna keep doing this thing
+
+00:47:36.690 --> 00:47:38.730
+and Jesus will come back eventually.
+
+00:47:39.130 --> 00:47:40.210
+But in the meantime, yeah,
+
+00:47:40.210 --> 00:47:41.910
+we'll let all these women support our ministry.
+
+00:47:42.090 --> 00:47:42.650
+Why not?
+
+00:47:44.860 --> 00:47:46.140
+I got a couple more super chats.
+
+00:47:46.140 --> 00:47:46.820
+Johanna says,
+
+00:47:47.020 --> 00:47:48.520
+I'm going to make a t-shirt that says
+
+00:47:48.520 --> 00:47:51.060
+everything I know about the Bible I learned from Justin.
+
+00:47:52.540 --> 00:47:54.640
+There's a lot about the Bible I don't know.
+
+00:47:54.720 --> 00:47:57.500
+There's a lot of good people out here to learn from.
+
+00:47:58.240 --> 00:48:00.180
+I'm humble that you think I'm one of them.
+
+00:48:00.180 --> 00:48:01.540
+I really appreciate that, Johanna.
+
+00:48:01.980 --> 00:48:04.380
+At least I'm glad I can put my education to use.
+
+00:48:04.840 --> 00:48:05.780
+And Forum says,
+
+00:48:06.200 --> 00:48:07.760
+what was the purpose of the story
+
+00:48:07.760 --> 00:48:10.040
+of the lineage of Cain in Genesis?
+
+00:48:10.040 --> 00:48:14.340
+Why did the author just leave off after the murder of Abel?
+
+00:48:14.340 --> 00:48:16.220
+Okay, so the lineage in Genesis,
+
+00:48:16.240 --> 00:48:18.920
+we're talking about Genesis chapter four and five.
+
+00:48:20.580 --> 00:48:22.380
+The purpose of these lineages
+
+00:48:22.380 --> 00:48:25.880
+are to explain where things came from.
+
+00:48:26.140 --> 00:48:27.960
+Where did we get iron smelting?
+
+00:48:28.160 --> 00:48:30.480
+Where did we get this people group from, right?
+
+00:48:30.620 --> 00:48:32.740
+So the goal of this is to say,
+
+00:48:33.240 --> 00:48:35.020
+okay, we've got these people groups.
+
+00:48:35.040 --> 00:48:36.060
+You know about them.
+
+00:48:36.500 --> 00:48:38.600
+Here's where they came from, right?
+
+00:48:38.600 --> 00:48:40.420
+And what you'll find in Genesis,
+
+00:48:40.600 --> 00:48:41.900
+when we get these people groups,
+
+00:48:42.280 --> 00:48:45.140
+it's always the people groups that Israel don't like.
+
+00:48:45.520 --> 00:48:48.520
+These people, well, they came from bad ancestors.
+
+00:48:48.740 --> 00:48:50.900
+They came from people that were bad in the lineage.
+
+00:48:51.240 --> 00:48:53.800
+Like the descendants of Ham were the Canaanites
+
+00:48:53.800 --> 00:48:55.320
+and the Canaanites were cursed
+
+00:48:55.320 --> 00:48:57.220
+to be slaves to the Israelites.
+
+00:48:57.860 --> 00:49:00.480
+And so the justification for what they did
+
+00:49:00.480 --> 00:49:04.200
+to the Canaanites was in fact the story of Noah, right?
+
+00:49:04.380 --> 00:49:06.860
+So the lineage that we find in Genesis
+
+00:49:06.860 --> 00:49:09.800
+is an explanation for the state of affairs
+
+00:49:09.800 --> 00:49:12.800
+between them and the people groups around them.
+
+00:49:13.520 --> 00:49:16.880
+And the 10 commentorium says, prove me wrong.
+
+00:49:17.040 --> 00:49:19.020
+Israelites did not own chattel slaves
+
+00:49:19.020 --> 00:49:21.940
+after being freed 400 years from slavery
+
+00:49:21.940 --> 00:49:24.980
+and lived in the wilderness in tents with no farms.
+
+00:49:25.360 --> 00:49:27.740
+First chattel slaves were Midianite virgins
+
+00:49:27.740 --> 00:49:29.400
+and Gibeonite males.
+
+00:49:29.980 --> 00:49:32.720
+Well, I mean, we have no reason to believe that.
+
+00:49:32.820 --> 00:49:35.360
+We hear about slaves even in the book of Exodus.
+
+00:49:35.360 --> 00:49:37.260
+If you just go to the book of Exodus
+
+00:49:37.260 --> 00:49:41.060
+and do a word search on the word slaves,
+
+00:49:41.720 --> 00:49:44.420
+it seems to be that they're being prepared
+
+00:49:44.420 --> 00:49:47.320
+to own slaves while they're in the desert.
+
+00:49:47.700 --> 00:49:50.500
+And if the first time that they owned slaves
+
+00:49:50.500 --> 00:49:51.800
+were the Midianite virgins,
+
+00:49:51.820 --> 00:49:53.760
+you're referring to Numbers chapter 31,
+
+00:49:54.420 --> 00:49:56.160
+that was while they were in the desert.
+
+00:49:56.900 --> 00:50:00.020
+Numbers 31 is while they were wandering around
+
+00:50:00.020 --> 00:50:00.680
+in the desert.
+
+00:50:00.700 --> 00:50:02.920
+So if they took those virgins as slaves
+
+00:50:02.920 --> 00:50:05.580
+and they killed all the Midianites,
+
+00:50:06.120 --> 00:50:09.160
+then in fact, they owned slaves while they were
+
+00:50:09.160 --> 00:50:10.800
+in the desert during the period of the Exodus.
+
+00:50:11.340 --> 00:50:13.940
+Numbers and Exodus run parallel to each other.
+
+00:50:14.640 --> 00:50:16.720
+They're not in the promised land yet
+
+00:50:16.720 --> 00:50:18.980
+in the book of Numbers.
+
+00:50:19.680 --> 00:50:22.260
+I mean, they're spying the promised land.
+
+00:50:22.480 --> 00:50:22.880
+You know what I mean?
+
+00:50:23.320 --> 00:50:25.120
+So I don't know what to tell you.
+
+00:50:25.280 --> 00:50:27.720
+The Israelites obviously did own chattel slaves
+
+00:50:27.720 --> 00:50:31.860
+directly after being freed from slavery for 400 years
+
+00:50:31.860 --> 00:50:36.420
+and the example you listed proves that I'm right.
+
+00:50:39.500 --> 00:50:40.480
+I don't know what to tell you.
+
+00:50:40.720 --> 00:50:41.740
+Thank you for the super chat though.
+
+00:50:41.900 --> 00:50:44.660
+And Godwin says, is Judaic circumcision
+
+00:50:45.740 --> 00:50:46.920
+reformed human sacrifice?
+
+00:50:47.220 --> 00:50:48.540
+I don't think so.
+
+00:50:49.400 --> 00:50:52.440
+I don't think it was a derivative of human sacrifice.
+
+00:50:52.520 --> 00:50:54.340
+What I think is they learned it from the Egyptians
+
+00:50:54.340 --> 00:50:55.780
+who are already doing it,
+
+00:50:55.840 --> 00:50:57.680
+which lends credence to the idea
+
+00:50:57.680 --> 00:51:01.060
+that there was a contingent of Hebrew people
+
+00:51:01.060 --> 00:51:03.640
+that did live either on the border of Egypt
+
+00:51:03.640 --> 00:51:07.560
+or even in the land of Avaris that eventually left.
+
+00:51:07.620 --> 00:51:10.180
+Maybe they were part of the Hyksos expulsion, who knows?
+
+00:51:10.600 --> 00:51:13.540
+What we do know is that they probably picked up
+
+00:51:13.540 --> 00:51:15.680
+the act of circumcision from the Egyptians
+
+00:51:15.680 --> 00:51:17.600
+and then when the Judeans became
+
+00:51:17.600 --> 00:51:19.760
+the most powerful people in their narrative
+
+00:51:20.420 --> 00:51:23.360
+was the end all be all of the people group,
+
+00:51:23.640 --> 00:51:24.900
+obviously the circumcision,
+
+00:51:25.260 --> 00:51:27.280
+they had to come up with a reason for it
+
+00:51:27.280 --> 00:51:28.740
+and the reason for the circumcision
+
+00:51:28.740 --> 00:51:30.340
+was explained through Abraham
+
+00:51:30.340 --> 00:51:32.760
+because if they're gonna force it on everybody,
+
+00:51:32.760 --> 00:51:34.020
+you need it to come from God.
+
+00:51:34.960 --> 00:51:37.880
+L-Teen says, no question, but just wanted to say,
+
+00:51:37.920 --> 00:51:40.240
+I very much admire how much you prioritize your son
+
+00:51:40.240 --> 00:51:41.260
+and spending time with him.
+
+00:51:41.340 --> 00:51:42.080
+Enjoy the beach, friend.
+
+00:51:42.440 --> 00:51:44.060
+Well, thank you so much, L-Teen.
+
+00:51:44.080 --> 00:51:46.040
+I really, really, really appreciate that.
+
+00:51:46.040 --> 00:51:46.780
+That's super generous.
+
+00:51:47.100 --> 00:51:49.700
+And the $50 super chat is very generous, L-Teen.
+
+00:51:49.700 --> 00:51:52.060
+Big W, big, big W.
+
+00:51:53.040 --> 00:51:56.520
+And Johanna says, you might earn, want?
+
+00:51:57.120 --> 00:51:59.880
+You might want to marry Jesus Christ Superstar.
+
+00:52:00.020 --> 00:52:01.060
+He was very good looking.
+
+00:52:02.200 --> 00:52:03.160
+I'll consider that.
+
+00:52:03.160 --> 00:52:05.140
+I don't know who played it, who played the role.
+
+00:52:05.420 --> 00:52:06.660
+I'll take a look into it though.
+
+00:52:06.660 --> 00:52:08.200
+Thank you for the information.
+
+00:52:08.480 --> 00:52:09.880
+And Randy, thank you for sending out
+
+00:52:09.880 --> 00:52:12.780
+10 deconstruction zone memberships.
+
+00:52:13.040 --> 00:52:14.040
+That's huge, my friend.
+
+00:52:14.080 --> 00:52:14.800
+Thank you so much.
+
+00:52:15.140 --> 00:52:16.220
+I've got two more.
+
+00:52:16.220 --> 00:52:17.960
+I got two more and I got to cut it, guys.
+
+00:52:18.760 --> 00:52:20.440
+Forum says, please enjoy your day at the beach.
+
+00:52:20.680 --> 00:52:22.840
+Have an ice cream on me.
+
+00:52:22.860 --> 00:52:24.640
+Well, thank you so much, Forum.
+
+00:52:24.700 --> 00:52:25.780
+And I think we will.
+
+00:52:25.920 --> 00:52:27.040
+I think we're going to have some ice cream.
+
+00:52:27.120 --> 00:52:27.840
+It should be a lot of fun.
+
+00:52:27.940 --> 00:52:28.940
+I'm looking forward to it.
+
+00:52:29.180 --> 00:52:32.280
+He's never been in a body of water with waves yet.
+
+00:52:32.380 --> 00:52:34.640
+We're going to, there's a big lake.
+
+00:52:34.640 --> 00:52:36.780
+I can't tell you what, that actually has waves.
+
+00:52:37.360 --> 00:52:39.860
+And I'm so excited because he's never seen waves before.
+
+00:52:40.200 --> 00:52:44.200
+So the first time a six-year-old experiences waves is fun.
+
+00:52:45.040 --> 00:52:46.240
+And last one says, thanks,
+
+00:52:46.300 --> 00:52:48.240
+was just trying to give you a challenge.
+
+00:52:48.620 --> 00:52:49.980
+Listen, I love a good challenge.
+
+00:52:50.040 --> 00:52:52.680
+I appreciate a good, good challenge.
+
+00:52:53.520 --> 00:52:56.460
+And it certainly was, I think, in good faith.
+
+00:52:56.960 --> 00:52:58.420
+So big W to that.
+
+00:52:59.840 --> 00:53:03.140
+And I'll do another Q&A next week.
+
+00:53:03.140 --> 00:53:04.720
+So I apologize.
+
+00:53:04.820 --> 00:53:06.200
+This one had to be so short.
+
+00:53:06.480 --> 00:53:07.720
+Apologize, Streamlabs.
+
+00:53:08.020 --> 00:53:10.280
+Obviously, this dogshit software sometimes.
+
+00:53:10.720 --> 00:53:13.640
+But I'll be live tomorrow doing debates.
+
+00:53:13.780 --> 00:53:16.520
+I'll be live Saturday and Sunday doing debates.
+
+00:53:16.960 --> 00:53:18.960
+And so there's gonna be lots of debates coming up
+
+00:53:18.960 --> 00:53:20.680
+and I'll make sure and plan time
+
+00:53:20.680 --> 00:53:22.800
+for a longer Q&A next week.
+
+00:53:22.800 --> 00:53:24.340
+We can get all of our questions out.
+
+00:53:24.760 --> 00:53:25.840
+Apologize, we have to cut this one short.
+
+00:53:25.840 --> 00:53:27.660
+But thank you so much for being here, friends.
+
+00:53:28.120 --> 00:53:28.320
+Love and.
